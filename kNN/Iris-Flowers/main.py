@@ -3,23 +3,32 @@ import random
 import math
 import operator
 
-
 # 1. Handle Data
 
 # Load dataset, split into training and test datasets(ratio 67/33)
+from pip._vendor.distlib.compat import raw_input
 
-def loadDataset(filename, split, trainingSet=[], testSet=[]):
-    with open(filename, 'rb') as csvfile:
-        lines = csv.reader(csvfile)
-        dataset = list(lines)
 
-        for x in range(len(dataset) - 1):
+def loadDataset(trainFile, testFile, trainingSet=[], testSet=[]):
+    # train.txt
+    with open(trainFile, 'r') as in_file:
+        stripped = (line.strip() for line in in_file)
+        lines = (line.split(",") for line in stripped if line)
+        trainDataset = list(lines)
+        for x in range(len(trainDataset) - 1):
             for y in range(4):
-                dataset[x][y] = float(dataset[x][y])
-            if random.random() < split:
-                trainingSet.append(dataset[x])
-            else:
-                testSet.append(dataset[x])
+                trainDataset[x][y] = float(trainDataset[x][y])
+            trainingSet.append(trainDataset[x])
+
+    # test.txt
+    with open(testFile, 'r') as in_file:
+        stripped = (line.strip() for line in in_file)
+        lines = (line.split(",") for line in stripped if line)
+        testDataset = list(lines)
+        for x in range(len(testDataset) - 1):
+            for y in range(4):
+                testDataset[x][y] = float(testDataset[x][y])
+            testSet.append(testDataset[x])
 
 
 # test loadData
@@ -111,23 +120,53 @@ def getAccuracy(testSet, predictions):
 
 
 # 6. Main
+def getCustomInput(custom):
+    try:
+        for i in range(4):
+            # print("Enter "+i+"/4"+" number: ")
+            custom[0][i] = float(input("Enter " + str(i) + "/3" + " number: "))
+        custom[0][4] = raw_input("Enter the name of the flower: ")
+    except ValueError:
+        print("An invalid value.")
+    return custom
+
+
 def main():
     # prepare data
     trainingSet = []
     testSet = []
-    split = 0.67
-    loadDataset('iris.data', split, trainingSet, testSet)
+    loadDataset('train.txt', 'test.txt', trainingSet, testSet)
     print('Train set: ' + repr(len(trainingSet)))
     print("Test set: " + repr(len(testSet)))
+
     # generate predictions
     predictions = []
-    k = 3
+    k = 0
+    try:
+        k = int(input('Enter k: '))
+    except ValueError:
+        print("Not an integer value")
     for x in range(len(testSet)):
         neighbors = getNeighbors(trainingSet, testSet[x], k)
         result = getResponse(neighbors)
         predictions.append(result)
         print('> predicted=' + repr(result) + ', actual=' + repr(testSet[x][-1]))
+
+    # custom test input
+    # 1, 1, 1, 1 <- Iris-virginica
+    print("CUSTOM INPUT")
+    custom = [[0.0 for x in range(5)] for x in range(1)]
+    custom = getCustomInput(custom)
+
+    # predict for the custom input
+    neighbors = getNeighbors(trainingSet, custom, k)
+    result = getResponse(neighbors)
+    predictions.append(result)
+    testSet.append(custom[0])
+    print('> predicted=' + repr(result) + ', actual=' + repr(custom[0][-1]))
+
     accuracy = getAccuracy(testSet, predictions)
     print('Accuracy: ' + repr(accuracy) + '%')
+
 
 main()
