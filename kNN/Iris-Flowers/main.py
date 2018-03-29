@@ -1,13 +1,9 @@
-import csv
-import random
 import math
 import operator
-
-# 1. Handle Data
-
-# Load dataset, split into training and test datasets(ratio 67/33)
 from pip._vendor.distlib.compat import raw_input
 
+
+# 1. Handle data
 
 def loadDataset(trainFile, testFile, trainingSet=[], testSet=[]):
     # train.txt
@@ -31,13 +27,6 @@ def loadDataset(trainFile, testFile, trainingSet=[], testSet=[]):
             testSet.append(testDataset[x])
 
 
-# test loadData
-# trainingSet = []
-# testSet = []
-# loadDataset('iris.data', 0.66, trainingSet, testSet)
-# print('Train: ' + repr(len(trainingSet)))
-# print('Test: ' + repr(len(testSet)))
-
 
 # 2. Similarity
 
@@ -48,12 +37,6 @@ def euclideanDistance(instance1, instance2, length):
         distance += pow((instance1[x] - instance2[x]), 2)
     return math.sqrt(distance)
 
-
-# test euclideanDistance
-# data1 = [2, 2, 2, 'a']
-# data2 = [4, 4, 4, 'b']
-# distance = euclideanDistance(data1, data2, 3)
-# print('Distance: ' + repr(distance))
 
 
 # 3. Neighbors
@@ -71,20 +54,9 @@ def getNeighbors(trainingSet, testInstance, k):
     return neighbors
 
 
-# test getNeighbors
-
-# trainSet = [[2, 2, 2, 'a'], [4, 4, 4, 'b']]
-# testInstance = [5, 5, 5]
-# k = 1
-# neighbors = getNeighbors(trainSet, testInstance, 1)
-# print(neighbors)
-# trainSet = [[2, 2, 2, 'a'], [4, 4, 4, 'b']]
-# testInstance = [5, 5, 5]
-# k = 1
-# neighbors = getNeighbors(trainSet, testInstance, 1)
-# print(neighbors)
 
 # 4. Response
+
 def getResponse(neighbors):
     classVotes = {}
     for x in range(len(neighbors)):
@@ -97,13 +69,9 @@ def getResponse(neighbors):
     return sortedVotes[0][0]
 
 
-# test getResponse
-# neighbors = [[1, 1, 1, 'a'], [2, 2, 2, 'a'], [3, 3, 3, 'b']]
-# response = getResponse(neighbors)
-# print(response)
-
 
 # 5. Accuracy
+
 def getAccuracy(testSet, predictions):
     correct = 0
     for x in range(len(testSet)):
@@ -112,14 +80,9 @@ def getAccuracy(testSet, predictions):
     return (correct / float(len(testSet))) * 100.0
 
 
-# test getAccuracy
-# testSet = [[1,1,1,'a'], [2,2,2,'a'], [3,3,3,'b']]
-# predictions = ['a', 'a', 'a']
-# accuracy = getAccuracy(testSet, predictions)
-# print(accuracy)
 
+# 6. Get custom input
 
-# 6. Main
 def getCustomInput(custom):
     try:
         for i in range(4):
@@ -130,6 +93,9 @@ def getCustomInput(custom):
         print("An invalid value.")
     return custom
 
+
+
+# 7. Main
 
 def main():
     # prepare data
@@ -165,10 +131,10 @@ def main():
     testSet.append(custom[0])
     print('> predicted=' + repr(result) + ', actual=' + repr(custom[0][-1]))
 
+
+
     accuracy = getAccuracy(testSet, predictions)
     print('Accuracy: ' + repr(accuracy) + '%')
-
-    # plot the graph
     
 
 
