@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c282d4b0-f63f-4d03-8c5e-6a1cf4a5decf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Tools-Artificial-Intelligence.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Perceptron/Iris-flowers/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Perceptron/Iris-flowers/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kNN/Iris-Flowers/.idea/workspace.xml" afterPath="$PROJECT_DIR$/kNN/Iris-Flowers/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kNN/Iris-Flowers/main.py" afterPath="$PROJECT_DIR$/kNN/Iris-Flowers/main.py" />
     </list>
