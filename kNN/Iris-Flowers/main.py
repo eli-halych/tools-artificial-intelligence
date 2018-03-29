@@ -168,5 +168,8 @@ def main():
     accuracy = getAccuracy(testSet, predictions)
     print('Accuracy: ' + repr(accuracy) + '%')
 
+    # plot the graph
+    
+
 
 main()
