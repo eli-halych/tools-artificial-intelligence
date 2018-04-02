@@ -2,42 +2,6 @@
 import numpy as np
 
 
-class Perceptron(object):
-    def __init__(self, rate=0.01, niter=10):
-        self.rate = rate
-        self.niter = niter
-
-    def fit(self, X, y):
-        """Fit training data
-      X : Training vectors, X.shape : [#samples, #features]
-      y : Target values, y.shape : [#samples]
-      """
-
-        # weights
-        self.weight = np.zeros(1 + X.shape[1])
-
-        # Number of misclassifications
-        self.errors = []  # Number of misclassifications
-
-        for i in range(self.niter):
-            err = 0
-            for xi, target in zip(X, y):
-                delta_w = self.rate * (target - self.predict(xi))
-                self.weight[1:] += delta_w * xi
-                self.weight[0] += delta_w
-                err += int(delta_w != 0.0)
-            self.errors.append(err)
-        return self
-
-    def net_input(self, X):
-        """Calculate net input"""
-        return np.dot(X, self.weight[1:]) + self.weight[0]
-
-    def predict(self, X):
-        """Return class label after unit step"""
-        return np.where(self.net_input(X) >= 0.0, 1, -1)
-
-
 class PerceptronTask(object):
     def __init__(self, rate=0.01, niter=10):
         self.rate = rate
@@ -69,31 +33,37 @@ class PerceptronTask(object):
 
         for j in range(4):
             sum += weights[j] * training_set[j]
-        sum -= threshold
 
-        if sum < threshold:
-            return 0
-        else:
-            return 1
+        return sum >= threshold
 
-    def update_weights(self, desired_output, output, training_set, alpha, weights, threshold):
-        new_x = []
-        new_w = []
-        for x in range(3):
-            new_x.append(0.0)
-            new_w.append(0.0)
+    def update_weights(self, desired_y, y, X, alpha, weights, threshold):
 
-        temp = alpha*desired_output*output
-        # print(tr)
+        w = list(weights)
+        w.append(threshold)
 
-        for j in range(3):
-            # print(new_x[j])
-            # print(new_w[j])
-            new_x[j] = training_set[j] * temp
-            new_w[j] = weights[j] - new_x[j]
-        threshold = new_w[len(new_w)-1]
-        return new_w
+        x = list(X)
+        x.append(-1)
 
+        mult = (float(desired_y) - float(y)) * alpha
+        # new_w = [0.0 for x in range(5)]
+        for i in range(4):
+            w[i] += mult * x[i]
+        w[4] -= mult
+        # print(w)
+
+        return w
+
+
+def splitTrainandTest(training_set, test_set, X_train, y_train, X_test, y_test):
+    for i in range(len(training_set)):
+        X_train.append(training_set[i][0:4])
+        y_train.append(np.where(training_set[i][4] == 'Iris-virginica', 0, 1))
+
+    for i in range(len(test_set)):
+        X_test.append(test_set[i][0:4])
+        y_test.append(np.where(test_set[i][4] == 'Iris-virginica', 0, 1))
+
+    pass
 
 
 def main():
@@ -103,18 +73,41 @@ def main():
     training_set = []
     test_set = []
     perceptron.loadDataset('training.txt', 'test.txt', training_set, test_set)
-    print('Train set: ' + repr(len(training_set)))
-    print("Test set: " + repr(len(test_set)))
+
+    X_train = []
+    y_train = []
+    X_test = []
+    y_test = []
+    splitTrainandTest(training_set, test_set, X_train, y_train, X_test, y_test)
 
     weights = [0.3, 0.2, 0.4, 0.2]
-    threshold = 0.7
+    threshold = float(input("Threshold: "))
+    alpha = float(input("Alpha: "))
 
     for i in range(perceptron.niter):
-        output = perceptron.output(training_set[i], weights, threshold)
-        weights = perceptron.update_weights(1, output, training_set[i], 0.5, weights, threshold) # refactor the weights and threshold args
-        print(weights)
+        for j in range(len(X_train)):
+            output = int(perceptron.output(X_train[j], weights, threshold))
+            if output == y_train[j]:
+                continue
+            else:
+                new_weights_thetha = perceptron.update_weights(y_train[j], output, X_train[j], alpha, weights, threshold)
+                for k in range(5):
+                    if k < 4:
+                        weights[k] = new_weights_thetha[k]
+                    if k == 4:
+                        threshold = new_weights_thetha[k]
 
-    # print(output)
+    correct = 0
+    all = 0
+    for i in range(len(X_test)):
+        output = int(perceptron.output(X_test[i], weights, threshold))
+        if output == y_test[i]:
+            correct += 1
+        all += 1
+
+        print("Expected=" + str(y_test[i]) + "     Predicted=" + str(output))
+
+    print("Accuracy=" + str(float(correct / all) * 100) + "%")
 
 
 main()
