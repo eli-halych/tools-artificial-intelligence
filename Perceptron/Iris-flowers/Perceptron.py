@@ -45,11 +45,9 @@ class PerceptronTask(object):
         x.append(-1)
 
         mult = (float(desired_y) - float(y)) * alpha
-        # new_w = [0.0 for x in range(5)]
         for i in range(4):
             w[i] += mult * x[i]
-        w[4] -= mult
-        # print(w)
+        print(w)
 
         return w
 
@@ -81,7 +79,7 @@ def main():
     splitTrainandTest(training_set, test_set, X_train, y_train, X_test, y_test)
 
     weights = [0.3, 0.2, 0.4, 0.2]
-    threshold = float(input("Threshold: "))
+    threshold = 0.7
     alpha = float(input("Alpha: "))
 
     for i in range(perceptron.niter):
