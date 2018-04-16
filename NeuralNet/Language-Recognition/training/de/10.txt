@@ -1,0 +1,129 @@
+
+Resistenz
+Die Resistenz (vom lateinischen resistentia für „Widerstand“; englisch Resistance) ist die Widerstandsfähigkeit eines Lebewesens gegen schädliche Einflüsse der Umwelt (wie z. B. Parasiten, Infektionen, Krankheiten, Klima), bei Tier- und Pflanzenschädlingen auch gegen angewandte Bekämpfungsmittel, sowie bei Bakterien und Viren gegen Medikamente. Resistenz kann erblich bedingt, jedoch auch durch Umweltverhältnisse (z. B. Ernährung) erzeugbar sein. Die Schaffung resistenter Rassen oder Sorten durch Mutation oder Kreuzung und fortgesetzte Auslese ist eines der Hauptziele der Tier- und Pflanzenzüchtung.
+
+Inhaltsverzeichnis [Verbergen] 
+1	Biologie (allgemein)
+1.1	Resistenz von Mikroorganismen
+1.2	Resistenz von höheren Organismen
+1.2.1	Resistenz von Pflanzen
+1.2.2	Resistenz von Menschen und Tieren
+2	Resistenzen im Pflanzenschutz
+2.1	Fungizidresistenz
+3	Pharmakologie
+4	Neurobiologie
+5	Siehe auch
+6	Literatur
+7	Weblinks
+8	Einzelnachweise
+Biologie (allgemein)[Bearbeiten | Quelltext bearbeiten]
+Resistenz von Mikroorganismen[Bearbeiten | Quelltext bearbeiten]
+Populationen von Mikroorganismen bestehen aus abertausenden von Individuen, von denen einige weniger anfällig z. B. gegen ein Antibiotikum sind als andere. Beim Einsatz eines Antibiotikums sterben die empfindlichsten Individuen zuerst, die resistentesten überleben am längsten. Wird der Einsatz des Antibiotikums zu früh abgebrochen, überleben einige der resistentesten Individuen und vermehren sich. Die neue Population ist im Mittel resistenter als die alte, weil alle jetzigen Individuen von Mutterzellen abstammen, die auf geringe Anfälligkeit gegenüber dem Antibiotikum selektiert wurden. Krankheiten, die auf diese Erreger zurückzuführen sind, die diesen Prozess bereits mehrfach durchlaufen haben, können mit Antibiotika kaum noch behandelt werden.
+
+Mechanismen von Resistenz sind (1) Efflux Pumpen, die in der äußeren Membran der Zellen lokalisiert sind und zum Beispiel Antibiotika aus den Zellen herauspumpen, so dass die Konzentration im Zellinneren unter kritischem Niveau bleibt, (2) Mutationen des Gens, das für das Protein codiert, das die Bindungsstelle/den Wirkort des Antibiotikums im Erreger darstellt und (3) metabolische Entgiftung zum Beispiel durch Enzyme, die den Wirkstoff spalten.[1]
+
+Mitunter können Mikroorganismen bei Blockierung eines Stoffwechselweges durch ein Antibiotikum einen alternativen Stoffwechselweg aktivieren und so in einer Antibiotika-haltigen Umwelt überleben.[2]
+
+Resistenz kann auch erworben werden, indem Gene für Antibiotikaresistenzen, die zum Beispiel auf Plasmiden codiert sind, von einem Bakterium auf ein anderes durch Konjugation übertragen werden. Es gibt vor allem in Krankenhäusern Krankheitserreger (etwa Pseudomonas), die sich auf diese Weise mehrere Resistenzfaktoren angeeignet haben, also multiresistent geworden sind - eine Folge des kontinuierlichen Selektionsdruckes durch notwendige Antibiotikagabe in etwa infektiologischen oder intensivmedizinischen Abteilungen.
+
+Resistenz von höheren Organismen[Bearbeiten | Quelltext bearbeiten]
+Ebenso sind heute viele Unkräuter gegen Herbizide, Insekten gegen Insektizide oder Pilze gegen Fungizide resistent. Dies hat Konsequenzen für den modernen Ackerbau, aber auch in der Bekämpfung von durch Insekten verbreiteten Krankheiten (z. B. Malaria).
+
+Resistenz von Pflanzen[Bearbeiten | Quelltext bearbeiten]
+Bei Pflanzen wird die Widerstandsfähigkeit gegenüber Krankheiten und Schädlingen als Resistenz bezeichnet, während die Widerstandsfähigkeit gegenüber abiotischen Schadfaktoren (z. B. Kälte, Herbizide) als Toleranz bezeichnet wird. Resistenzreaktionen von Pflanzen gegenüber Schadorganismen werden basierend auf den Wirkmechanismen in verschiedene Typen eingeteilt.
+
+Bei Nichtwirtsresistenz sind alle Sorten und Genotypen einer Pflanzenart resistent gegenüber allen Rassen eines Pathogens.
+
+Besteht nun die grundsätzliche Fähigkeit eines Pathogens, Krankheit bei einer Pflanzenart auszulösen (z. B. das Pathogen Phytophthora infestans löst die Kraut- und Braunfäule an Tomaten und Kartoffel aus), so können einzelne Wirtsgenotypen gegenüber bestimmten Stämmen oder Rassen des Pathogens resistent sein. Diese Resistenz ist also rassenspezifisch und durch eine qualitative Interaktion (ja-nein) charakterisiert. Virulente Rassen führen auf anfälligen Pflanzen zu ungehindertem Befall, bei avirulenten Rassen wird die Infektion bei Pflanzen mit passender Resistenz komplett gestoppt. Rassenspezifische Resistenzen beruhen meist auf nur einem oder sehr wenigen Genen. Solche vollständigen Resistenzen werden auch als vertikale Resistenzen bezeichnet, da sich ihre mehr oder weniger monogenetische Vererbung deutlich in den Nachkommen widerspiegelt.[3] Der Mechanismus der qualitativen Resistenz ist häufig der hypersensitive Zelltod. Das heißt, sobald eine Pflanzenzelle mit einer avirulenten Rasse in Kontakt kommt, stirbt die Zelle und u.U. auch die Nachbarzellen ab, bevor das Pathogen in die nächste Zelle eindringen kann, und tötet damit auch das Pathogen. Die qualitative Resistenz kann von vielen Pathogen schnell überwunden werden.
+
+Im Gegensatz zu rassenspezifischen Resistenzen, gibt es auch partielle Resistenzen, die zwar Befall zulassen, aber das Infektionsgeschehen drastisch verlangsamen. Solche graduellen Resistenzreaktionen (horizontale Resistenz) beruhen auf einer Vielzahl polygen gesteuerter Resistenzmechanismen, die weitgehend unabhängig von den Pathogenrassen ausgelöst werden.[4] Deshalb werden sie als rassenunspezifisch bzw. quantitativ (mehr/weniger) bezeichnet. Grundsätzlich ist es deutlich schwieriger für Pathogene, sich an diese komplexen quantitativen Resistenzen anzupassen, da zu deren Umgehung mehrere kompensatorische Mutationen gleichzeitig erfolgen müssen, was statistisch deutlich seltener vorkommt. Durch Kreuzung werden mehrere partielle Resistenzen kombiniert, was auch zu einer vollständigen Resistenz führen kann. Partielle Resistenzen werden meistens in nur leicht betroffenen Pflanzen gefunden.
+
+Sowohl die qualitativen als auch quantitativen Resistenzreaktionen beruhen auf biochemischen Prozessen in der Pflanze, die, wenn sie einmal ausgelöst wurden häufig über eine gewisse Zeit aktiv sind und damit die Pflanzen gegen spätere Infektionen vorübergehend schützen analog einer sehr kurzfristigen Impfung (typische Wirkzeit drei bis sieben Tage). Dieser Vorgang wird als induzierte Resistenz bezeichnet.
+
+Bei Pflanzen wurde beobachtet, dass sie bei einer erhöhten Schwefel-Menge in der Umwelt mit Schwefel-induzierter Resistenz reagieren.
+
+Resistenz von Menschen und Tieren[Bearbeiten | Quelltext bearbeiten]
+→ Hauptartikel: Pathogenität#Koevolution und Immunität (Medizin)
+Bei Menschen und Tieren gibt es zusätzlich zu den einzelnen Resistenzmechanismen noch eine weitere Widerstandsfähigkeit, diese wird von einem Organismus im Laufe seines Lebens gegen Krankheitserreger erworben, die so genannte Immunität. Der Vorgang der Erzeugung einer Immunität wird auch Immunisierung genannt, und besteht in einer Anpassung des Immunsystems an die Krankheitserreger, denen der Organismus ausgesetzt war. Gegen wechselnde Temperatureinflüsse besteht zudem eine Temperaturresistenz.
+
+Resistenzen im Pflanzenschutz[Bearbeiten | Quelltext bearbeiten]
+Fungizidresistenz[Bearbeiten | Quelltext bearbeiten]
+Bei Pilzen können sich Resistenzen durch mehrere Pilzgenerationen pro Vegetationsperiode schnell entwickeln. Wenn die Sporen mit dem Wind verbreitet werden, wie beim Echten Getreidemehltau (Erysiphe graminis) oder dem Kaffeerost kann sich eine neue Resistenz innerhalb von wenigen Wochen mehrere 100 km weit verbreiten. Bei anderen Erreger wie dem Apfelschorf verbreitet sich eine Resistenz nur lokal (z. B. im Bodenseegebiet).[5]
+
+Pharmakologie[Bearbeiten | Quelltext bearbeiten]
+In der Pharmakologie und verwandten Fachgebieten bezeichnet Resistenz den Umstand, dass normalerweise wirksame Einflüsse nicht wirken, zum Beispiel dann, wenn ein Neurotransmitter oder ein Hormon nicht mehr wie gewohnt wirkt, weil die Rezeptoren auf den Zielzellen fehlen oder blockiert sind. Zur Erreichung derselben Wirkungsintensität ist dann eine Dosissteigerung notwendig, die Effektivdosis steigt. Ein bekanntes Beispiel hierfür ist die Insulinresistenz. In der Radiochemie wird eine mögliche Resistenz gegen niedrige Strahlendosen aufgrund einer Hormesis diskutiert, die vermutlich aufgrund der Aktivierung von Reparaturmechanismen der Zelle ab einem Schwellenwert der Strahlendosis entstehen.[6][7][8]
+
+Neurobiologie[Bearbeiten | Quelltext bearbeiten]
+In der Neurobiologie wird eine Resistenz gegen erneute Reize als Habituation bezeichnet.
+
+Siehe auch[Bearbeiten | Quelltext bearbeiten]
+Pestizidresistenz
+Literatur[Bearbeiten | Quelltext bearbeiten]
+Dudley H. Williams, Ben Bardsley: Die Vancomycin-Antibiotika und der Kampf gegen resistente Bakterien. In: Angewandte Chemie, Bd. 111 (1999), Heft 9, S. 1264–1286, ISSN 0044-8249.
+Joachim Morschhäuser: Wie "entkommen" Pilze der Therapie? Resistenzen und Resistenzmechanismen. In: Pharmazie in unserer Zeit. Wissenschaft, Bildung und Weiterbildung, Bd. 32 (2003), Heft 2, S. 124–129, ISSN 0048-3664.
+George N. Agrios: Plant Pathology. 5. Aufl. Elzevier Academic Press, Amsterdam 2005, ISBN 0-12-044565-4.
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+ Wiktionary: Resistenz – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+Proplanta: Resistenz von Pflanzen – Nachrichtenseite
+Einzelnachweise[Bearbeiten | Quelltext bearbeiten]
+Hochspringen ↑ James B. Andersen: Evolution of antifungal drug resistance. Mechanisms and pathogen fitness. In: Nature Reviews Microbiology, 2005, Heft 3, S. 547–556, ISSN 1740-1534.
+Hochspringen ↑ Paul M. Wood, Derek W. Hollomon: A critical evaluation of the role of alternative oxidase in the performance of strobilurin and related fungicides acting at the Qo site of Complex III. In: Pest Management Science, Bd. 59 (2003), S. 99–511, ISSN 1526-498X.
+Hochspringen ↑ J. E. Vanderplank: Plant Diseases: Epidemics and Control. Academic Press, New York and London 1963, S. 349 ff.
+Hochspringen ↑ R. A. Robinson: Plant Pathosystems. Springer-Verlag, Berlin, Heidelberg, New York 1976, S. 184 ff.
+Hochspringen ↑ Michael Henningsen: Moderne Fungizide: Pilzbekämpfung in der Landwirtschaft. In: ChiuZ. Band37, Nr.2, 2003, S.105, doi:10.1002/ciuz.200300283 (PDF).
+Hochspringen ↑ S. Z. Liu: Biological effects of low level exposures to ionizing radiation: theory and practice. In: Hum Exp Toxicol. (2010), Band 29(4), S. 275–281. doi:10.1177/0960327109363967. PMID 20332172.
+Hochspringen ↑ K. S. Crump, P. Duport, H. Jiang, N. S. Shilnikova, D. Krewski, J. M. Zielinski: A meta-analysis of evidence for hormesis in animal radiation carcinogenesis, including a discussion of potential pitfalls in statistical analyses to detect hormesis. In: J Toxicol Env Health Pt B-Crit Rev. (2012), Band 15(3), S. 210–231. doi:10.1080/10937404.2012.659140. PMID 22458256.
+Hochspringen ↑ N. G. Huilgol: Hormesis: a peep in to the human nature. In: Journal of Cancer Research and Therapeutics. (2012), Band 8(2), S. 175. doi:10.4103/0973-1482.98966. PMID 22842357.
+Kategorien: Biosoziologie und SoziobiologieEvolutionPflanzenschutzPflanzenernährungAntibiose
+Navigationsmenü
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmeldenArtikelDiskussionLesenBearbeitenQuelltext bearbeitenVersionsgeschichteSuche
+
+Wikipedia durchsuchen
+Artikel
+Hauptseite
+Themenportale
+Von A bis Z
+Zufälliger Artikel
+Mitmachen
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+Hilfe
+Letzte Änderungen
+Kontakt
+Spenden
+Werkzeuge
+Links auf diese Seite
+Änderungen an verlinkten Seiten
+Spezialseiten
+Permanenter Link
+Seiten­informationen
+Wikidata-Datenobjekt
+Artikel zitieren
+Drucken/­exportieren
+Buch erstellen
+Als PDF herunterladen
+Druckversion
+In anderen Projekten
+Commons
+
+In anderen Sprachen
+العربية
+English
+Español
+日本語
+한국어
+Polski
+Русский
+Українська
+中文
+14 weitere
+Links bearbeiten
+Diese Seite wurde zuletzt am 20. Februar 2018 um 13:43 Uhr bearbeitet.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+DatenschutzÜber WikipediaImpressumEntwicklerStellungnahme zu CookiesMobile AnsichtVorschau aktivieren
+Wikimedia Foundation Powered by MediaWiki
+ 

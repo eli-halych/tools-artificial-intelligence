@@ -1,0 +1,95 @@
+ Gleba (łac. glaeba – ziemia uprawna, rola) — naturalna, trójfazowa, biologicznie czynna, powierzchniowa warstwa skorupy ziemskiej (litosfery), ukształtowana poprzez procesy glebotwórcze ze zwietrzeliny skalnej (skały macierzystej) w wyniku oddziaływania klimatu i organizmów żywych, przy określonej rzeźbie terenu, w określonym przedziale czasu, często przy wpływie działalności człowieka. Gleba jest integralnym składnikiem ekosystemów lądowych i niektórych płytkowodnych[1].
+
+Gleba składa się z części mineralnej i organicznej.
+
+Nauką dotyczącą gleby jest gleboznawstwo[2]. Jego subdyscypliną jest geografia gleb[3].
+
+Spis treści  [ukryj] 
+1	Powstawanie
+2	Morfologia
+3	Skład
+4	Systematyka
+5	Zobacz też
+6	Uwagi
+7	Przypisy
+Powstawanie[edytuj | edytuj kod]
+ Osobne artykuły: czynniki glebotwórcze i procesy glebotwórcze.
+Klasyczny schemat powstawania gleb w ujęciu Wasilija Dokuczajewa:
+
+czynniki glebotwórcze → procesy glebotwórcze → sekwencja poziomów glebowych i właściwości gleb
+Gleba, jako samodzielny twór, powstaje pod wpływem czynników środowiska nazywanych czynnikami glebotwórczymi. W ten sposób właściwości gleby zależą (funkcyjnie, zob. zmienne zależna i niezależna) od zmiennych takich jak: organizmy żywe, klimat, rzeźba terenu, materiał macierzysty, warunki wodne, działalność człowieka, czy czas. Czynniki glebotwórcze działające łącznie na jakimś obszarze tworzą lokalne środowisko glebotwórcze. Nieraz się zdarza, że któryś z czynników ma dużo większy wpływ na powstawanie gleby niż pozostałe.
+
+Zespół zjawisk zachodzących w wierzchniej warstwie litosfery pod wpływem czynników glebotwórczych powodujący powstanie i rozwój gleby nazywa się procesem glebotwórczym. Procesy glebotwórcze polegają na wymianie materii i przepływie energii pomiędzy glebą (pedosferą) a biosferą, atmosferą, hydrosferą i litosferą. Ogólnie obejmują one przemiany w mineralnym tworzywie gleby (wietrzenie i tworzenie się minerałów), przemiany materii organicznej (humifikacja i mineralizacja), a także przemieszczanie się składników oraz wytrącanie się ich w obrębie profilu glebowego.
+
+W glebach zazwyczaj zachodzą jednocześnie różne procesy glebotwórcze, lecz z różną intensywnością. Te, które dominują nadają glebie jej wygląd i właściwości i prowadzą do uformowania się konkretnego typu gleby. Zazwyczaj przebiegają one na tyle wolno, że nie obserwuje się ich bezpośrednio, a jedynie ich skutki.
+
+Wydziela się następujące typologiczne procesy glebotwórcze: inicjalny, darniowy, brunatnienia, płowienia, bielicowania, rdzawienia, glejowy, torfienia, murszenia, wertylizacji, ferralityzacji, salinizacji, sołonizacji i sołodyzacji[4]
+
+Morfologia[edytuj | edytuj kod]
+ Osobny artykuł: morfologia gleb.
+Procesy glebotwórcze prowadzą do powstania gleby o specyficznej budowie wewnętrznej i właściwościach. Najmniejszą jej trójwymiarową bryłę umożliwiającą opis wszystkich charakterystycznych cech i funkcji określa się jako pedon. Obszar zajęty przez bardzo podobne pedony, graniczący z innego rodzaju pedonami lub obszarami bezglebowymi, określa się jako polipedon. Dwuwymiarowa, pionowa, boczna ściana pedonu jest to profil glebowy. W praktyce opisuje się profile glebowe będące ścianami bocznymi odkrywki glebowej, czyli głębokiego na ok. 1,5 – 2,0 m wykopu.
+
+Wygląd profilu glebowego określa się jako morfologia gleby. Na jej podstawie określa się wstępnie właściwości i pozycję systematyczną danej gleby.
+
+Profil gleby dzieli się na, różniące się od siebie, zazwyczaj położone mniej więcej równolegle do powierzchni terenu, warstwy glebowe i poziomy genetyczne gleby (poziomy glebowe). Do głównych poziomów glebowych należą: poziom organiczny, poziom próchniczny, poziom eluwialny, poziom wzbogacania (poziom iluwialny lub poziom brunatnienia), poziom glejowy, poziom lub warstwa osadów podwodnych (limnicznych), poziom murszowy, poziom macierzysty oraz lite podłoże skalne. Poziomy o ściśle określonych właściwościach, będące kryterium w typologii gleb, określa się jako poziomy diagnostyczne gleby[5].
+
+Skład[edytuj | edytuj kod]
+
+Ta sekcja od 2010-12 wymaga zweryfikowania podanych informacji.
+Należy podać (wiarygodne) źródła, najlepiej w formie dokładnych przypisów bibliograficznych.
+Część lub nawet wszystkie informacje w sekcji mogą być nieprawdziwe. Jako pozbawione źródeł mogą zostać zakwestionowane i usunięte.
+Dokładniejsze informacje o tym, co należy poprawić, być może znajdują się w dyskusji tej sekcji.
+Po wyeliminowaniu niedoskonałości należy usunąć szablon {{Dopracować}} z tej sekcji.
+Gleba składa się z trzech faz:
+
+stałej – obejmującej cząstki mineralne, organiczne i organiczno-mineralne o różnym stopniu rozdrobnienia, tworzące kompleks sorpcyjny,
+ciekłej – wody, w której są rozpuszczone związki mineralne i organiczne tworzące roztwór glebowy,
+gazowej – powietrza i pary wodnej.
+Wzajemny układ trzech faz może ulegać znacznym zmianom pod wpływem dalszych procesów glebotwórczych i ingerencji człowieka (zob. np. degradacja gleb). Prawidłowe stosunki ilościowe pomiędzy poszczególnymi fazami można kształtować przez wykonanie melioracji wodnych, agromelioracji, fitomelioracji, uprawę roli itp. Stosunki ilościowe trzech faz w glebie charakteryzuje się przez określenie gęstości objętościowej, porowatości, wilgotności i zwięzłości.
+
+Ze względu na zróżnicowanie materiału glebowego w profilu wyróżnia się gleby:
+
+całkowite, które w całym profilu (do 1,5 m) są zbudowane z tego samego materiału, np. z piasku, gliny, pyłu; zróżnicowanie uziarnienia profilu powodują wyłącznie procesy glebotwórcze
+niecałkowite, które do głębokości 1,5 m zawierają przynajmniej dwie różne warstwy, np. piasek do głębokości 0,8 m, a poniżej glinę.
+Na podstawie podgrup granulometrycznych, gleby dzieli się na następujące kategorie ciężkości agrotechnicznej[a][b][6]:
+
+bardzo lekkie – piaski słabogliniaste i luźne
+lekkie – piaski gliniaste
+średnie – gliny piaszczyste i lekkie oraz pyły gliniaste i lekkie
+ciężkie – pyły ilaste i gliny piaszczysto-ilaste, ilaste, zwykłe, pylasto-ilaste
+bardzo ciężkie – iły piaszczyste, ciężkie, pylaste i zwykłe
+Wyróżnia się również[c]:
+
+gleby średnie pyłowe – pyły gliniaste i pyły zwykłe
+gleby ciężkie pyłowe – pyły ilaste
+Proces glebotwórczy trwa nieustannie – jest nieodłącznym elementem przemian zachodzących w ekosystemie. Gleba jest środowiskiem życia i źródłem składników odżywczych dla wielu gatunków mikroorganizmów i podziemnych organów roślin wyższych.
+
+Znaczenie gleby zostało przedstawione w Europejskiej Karcie Gleby[7].
+
+Systematyka[edytuj | edytuj kod]
+ Osobny artykuł: systematyka gleb.
+Systematyka gleb jest stworzonym przez człowieka logicznym systemem porządkującym ogromną różnorodność gleb w przyrodzie. Zazwyczaj opiera się ona na określonych kryteriach lub grupie kryteriów, najczęściej użytkowych lub przyrodniczych, według których łączy się gleby w określone jednostki taksonomiczne gleb[8].
+
+Klasyfikacjami przyrodniczymi dokonującymi podziału gleb ze względu na kryteria genetyczne, tzn. wg sposobu powstania danej gleby, na terenie Polski są: systematyka gleb Polski opracowana przez Polskie Towarzystwo Gleboznawcze, a także klasyfikacja gleb leśnych Polski. Wiele krajów posiada swoje narodowe systematyki. Status międzynarodowych mają: amerykańska USDA Soil Taxonomy, a także Klasyfikacja Zasobów Glebowych Świata (WRB).
+
+Klasyfikacje użytkowe (stosowane) dokonują podziału gleb ze względu na określone cechy istotne z punktu widzenia celu powstania klasyfikacji. Przykładami są klasyfikacje gleb opisujące rolniczą produktywność gruntów (w Polsce są to: gleboznawcza klasyfikacja gruntów oraz podział na kompleksy przydatności rolniczej gleb), albo podział gruntów ze względu na określone cechy np. odczyn gleby lub zawartość materii organicznej.
+
+Zobacz też[edytuj | edytuj kod]
+Informacje w projektach siostrzanych
+Commons-logo.svg  Multimedia w Wikimedia Commons
+WiktionaryPl nodesc.svg  Definicje słownikowe w Wikisłowniku
+grunt
+Światowy Dzień Gleby
+Uwagi[edytuj | edytuj kod]
+Skocz do góry ↑ Podział obowiązujący od 2008 roku.
+Skocz do góry ↑ Gleby bardzo lekkie i lekkie mogą być klasyfikowane jako gleby lekkie a gleby ciężkie i bardzo ciężkie jako gleby ciężkie.
+Skocz do góry ↑ Dodatkowe kategorie wyróżnia się w celu dokładniejszej charakterystyki gleb o dużej zawartości frakcji pyłowej.
+Przypisy[edytuj | edytuj kod]
+Skocz do góry ↑ Systematyka gleb Polski, wydanie 5. „Roczniki gleboznawcze”. 62, 3, 2011. Polskie Towarzystwo Gleboznawcze. Warszawa.
+Skocz do góry ↑ gleboznawstwo w encyklopedii PWN. PWN. [dostęp 2012-10-02].
+Skocz do góry ↑ Marek Degórski. Geografia gleb jako dyscyplina fizycznogeograficzna. „Przegląd Geograficzny”. 3 (76), 2004. Warszawa: PAN Instytut Geografii i Przestrzennego Zagospodarowania. ISSN 0033-2143.
+Skocz do góry ↑ Renata Bednarek, Stefan Skiba: Czynniki i procesy glebotwórcze. W: Andrzej Mocek (red.): Gleboznawstwo. Warszawa: Wydawnictwo Naukowe PWN, 2015, s. 68–98. ISBN 978-83-01-17944-6. (pol.)
+Skocz do góry ↑ Cezary Kabała: Morfologia gleb. W: Andrzej Mocek (red.): Gleboznawstwo. Warszawa: Wydawnictwo Naukowe PWN, 2015, s. 99–130. ISBN 978-83-01-17944-6. (pol.)
+Skocz do góry ↑ Klasyfikacja uziarnienia gleb i utworów mineralnych. [dostęp 2011-10-19].
+Skocz do góry ↑ Wstęp. W: Saturnin Zawadzki (red.): Gleboznawstwo. Wyd. IV. Warszawa: Państwowe Wydawnictwo Rolnicze i Leśne, 1999, s. 17–18. ISBN 830901703-0. (pol.)
+Skocz do góry ↑ Stanisław Uziak, Zbigniew Klimowicz: Elementy geografii gleb i gleboznawstwa. Lublin: Wydawnictwo Uniwersytetu Marii Curie-Skłodowskiej, 2002, s. 51. ISBN 83-227-1671-0. (pol.)

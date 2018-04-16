@@ -1,0 +1,394 @@
+ 
+ Banner logo	
+Przekaż 1% podatku na rozwój Wikipedii.
+KRS: 0000244732
+SCHLIESSEN
+Wikipedia:Schreibwettbewerb
+SchWett Gr 2.png
+Der 28. Schreibwettbewerb der deutschsprachigen Wikipedia fand im März 2018 statt. Die Idee bleibt wie bislang immer, auf eine „spielerische“ Weise Artikel aus einer Reihe eingereichter Vorschläge zu küren und damit eine der erfolgreichsten Autoreninitiativen der Wikipedia fortzusetzen. Der Schreibwettbewerb, dessen Beurteilung bei den letzten Auflagen durch eine achtköpfige Jury erfolgte, dient einzig und allein der Befriedigung des Spaßfaktors, der bei vielen Streitereien, Editwars und anderen alltäglichen Widrigkeiten in der Wikipedia leider ab und zu verloren geht. So nebenbei sollen durch den Schreibwettbewerb natürlich auch einige neue „exzellente“ und „lesenswerte Artikel“ entstehen.
+
+Achtung: Parallel zum Schreibwettbewerb fand wieder ein Miniaturenwettbewerb mit eigenen Regeln statt, um Autoren zu motivieren, die sich eher auf kleinere Perlen konzentrieren möchten. Artikel konnten sowohl in je einem als auch parallel in beiden Wettbewerben nominiert werden.
+
+Inhaltsverzeichnis [Verbergen] 
+1	Geschichte
+2	Hilfe für Neulinge
+3	Schritt-für-Schritt-Anleitung für Teilnehmer
+4	Sektionen
+5	Die Richtlinien
+6	Zeitplan
+7	Die Jury
+7.1	I. Exakte Wissenschaften
+7.2	II. Kultur
+7.3	III. Gesellschaftswissenschaften
+7.4	IV. Geschichte
+8	Nominierte Artikel
+8.1	I. Exakte Wissenschaften
+8.2	II. Kultur
+8.3	III. Gesellschaftswissenschaften
+8.4	IV. Geschichte
+9	Preise
+9.1	Allgemeine Preise
+9.1.1	Privatspenden
+9.1.2	Spenden von Unternehmen, Organisationen und Institutionen
+9.2	Sonderpreise
+9.2.1	Privatspenden
+9.2.2	Spenden von Unternehmen, Organisationen und Institutionen
+10	Presse
+Geschichte[Quelltext bearbeiten]
+Einklappen
+SchWettbew Gr.svg
+Nummer	Siegerartikel
+Autor(en)	Publikumspreis
+Autor(en)	Reviewpreis
+Autor(en)
+1. (I/2004)	Kloster Lehnin
+Lienhard Schulz	erst zum 5. SW eingeführt	erst zum 13. SW eingeführt
+2. (I/2005)	Sachsenross
+Rabe!	
+3. (II/2005)	Wahnsinn
+Markus Mueller/Ixitixel	
+4. (I/2006)	Braunbär
+Bradypus	
+5. (II/2006)	Methodischer Kulturalismus
+Luha	Römisch-Persische Kriege
+Benowar
+6. (I/2007)	Haager Konvention zum
+Schutz von Kulturgut bei
+bewaffneten Konflikten
+UW	Schloss Glienicke
+Suse
+7. (II/2007)	Virushülle
+Gleiberg	Virushülle
+Gleiberg
+8. (I/2008)	Theatrophon
+Andibrunt	Kulturheidelbeeren
+Anonyme Autorin (IP)
+9. (II/2008)	Karolingische Buchmalerei
+Nicolai P.	Linoleum
+Denis Barthel/Achim Raschka
+10. (I/2009)	Nosferatu – Eine
+Symphonie des Grauens
+DieAlraune	Pfad der Tränen
+Poisend-Ivy
+11. (II/2009)	Draußen vor der Tür
+Magiers	Ernst Reuter
+Atomiccocktail
+12. (I/2010)	Tragödie von Nasino
+Atomiccocktail	Todesopfer an der Berliner Mauer
+blunt.
+13. (II/2010)	Phyllosphäre
+Density	Altern
+Kuebi	Reviewpreis
+Minnou
+14. (I/2011)	Stade Reims
+Wahrerwattwurm	Georges Simenon
+Magiers	Reviewpreis
+Umweltschützen
+15. (II/2011)	Massaker von Katyn
+Kopilot	Zensur in der Bundesrepublik Deutschland
+Zietz	Reviewpreis
+Umweltschützen
+16. (I/2012)	Peter-Paul Zahl
+emma7stern	Nationalsozialistischer Weihnachtskult
+Geolina163	Reviewpreis
+Umweltschützen
+17. (II/2012)	Kloster Muri
+Voyager	Huxley-Wilberforce-Debatte
+Succu	Reviewpreis
+Drei Erstplatzierte
+18. (I/2013)	Spiropterakarzinom
+Kuebi	Bitteres aus Bitterfeld / Trachodon-Mumie
+Aalfons / Jens Lallensack	Reviewpreis
+Star Flyer
+19. (II/2013)	L-Gulonolactonoxidase
+Kuebi	Burg Rötteln / Fossillagerstätte Geiseltal (Eozän)
+Taxiarchos228, SEM / DagdaMor	Reviewpreis
+Drei Erstplatzierte
+20. (I/2014)	Direkte Demokratie in Deutschland
+Nicolai P.	Dad (Arabischer Buchstabe)
+Man77	Reviewpreis
+Cimbail
+21. (II/2014)	Québec (Stadt) 
+Voyager	Olympische Sommerspiele 1940
+Julius1990	Reviewpreis
+Sir Gawain
+22. (I/2015)	Sangam-Literatur 
+Jbuchholz	Ludwig Boltzmann
+Feldkurat Katz	Reviewpreis
+Siechfred
+23. (II/2015)	God of War 
+HilberTraum	Heinrich IV., Teil 1
+Andreas Werle	Reviewpreis
+Nicht vergeben
+24. (I/2016)	Arnolf von Kärnten 
+Armin P.	Homo-, Bi- und Transsexualität im Metal
+Fraoch	Reviewpreis
+Siechfred
+25. (II/2016)	Stochastische Analysis
+HilberTraum	Aktion gegen Geheimlehren und sogenannte Geheimwissenschaften
+Kuebi	Reviewpreis
+JTCEPB
+26. (I/2017)	Lorenzo Pagans und Auguste de Gas / Thermalbäder Baden 
+Rlbberlin / Voyager	Fluoreszenzmikroskopie
+Dietzel65	Reviewpreis
+Zyranivia
+27. (II/2017)	Eadweard Muybridge 
+ Frank Schulenburg	Alexander Cartellieri
+Armin P.	Reviewpreis
+Cimbail
+28. (I/2018)	N.N.	N.N.	Reviewpreis
+N.N.
+Im Oktober 2004 fand in der deutschsprachigen Wikipedia der erste Schreibwettbewerb statt, der sich sehr reger Beteiligung erfreute. Nach einem Meinungsbild wurde entschieden, weitere Wettbewerbe in halbjährlichen Abständen durchzuführen. Der zweite Schreibwettbewerb begann am 1. März 2005. Die Ausschreibung dieser zweiten Runde fand erstmalig auf internationaler Ebene statt (siehe meta:International writing contest). Beteiligt waren Wikipedias in fünf unterschiedlichen Sprachen (Englisch, Deutsch, Japanisch, Niederländisch und Ukrainisch). Der dritte Schreibwettbewerb begann am 1. September 2005. Es wurden über 70 Artikel eingereicht, von denen 11 ausgezeichnet wurden.
+
+In den vergangenen mehr als fünfundzwanzig Schreibwettbewerben wurde mittlerweile eine vierstellige Anzahl Nominierungen bewertet, von denen sich einige Hundert platzieren konnten. Von allen am Wettbewerb teilnehmenden Artikeln wurde ein großer Anteil mit einem Qualitätsprädikat ausgezeichnet.
+
+Hilfe für Neulinge[Quelltext bearbeiten]
+Wenn dieser Schreibwettbewerb Dein erster Kontakt mit der Wikipedia ist oder Du nicht sicher bist, welche Ziele dieser Wettbewerb verfolgt, kann Dir vielleicht die Seite Wikipedia:Schreibwettbewerb/Hilfe weiterhelfen.
+
+Wenn Du gerne beim Wettbewerb mitmachen möchtest, Dir aber nichts einfällt, worüber Du schreiben könntest, dann hilft Dir sicher Wikipedia:Artikelwünsche weiter. Dort finden sich mehr als 1000 Ideen für bisher noch ungeschriebene Artikel.
+
+Wenn Du Dich über die vergangenen Schreibwettbewerbe gerne näher informieren möchtest, klicke einfach die entsprechenden Links in der Spalte Nummer im Infokasten rechts an. Auf den archivierten Schreibwettbewerbs-Seiten findest Du Informationen über Artikel, die an den vergangenen Wettbewerben teilgenommen haben, zu den Jury-Teilnehmer(inne)n, den Preisen, dem zeitlichen Ablauf und mehr. Diskussionen zu den vergangenen Wettbewerben sind auf der Diskussionsseite dieser Seite im Infokasten Archiv abgelegt. Hinweise für interessierte Jurykandidat(inn)en finden sich auf dieser Unterseite.
+
+Für Autoren, die sich den sehr hohen Ansprüchen des Schreibwettbewerbs noch nicht stellen möchten oder eher eine Möglichkeit suchen, eine kleinere Artikelperle zu schleifen, läuft parallel zu diesem auch ein Miniaturenwettbewerb. Dort können kurze Artikel nominiert werden, die Beurteilung erfolgt über die Community.
+
+Schritt-für-Schritt-Anleitung für Teilnehmer[Quelltext bearbeiten]
+
+Auch beim Schreibwettbewerb gilt: Sei mutig!
+Themenwahl: Zunächst suchst Du Dir ein geeignetes Thema. Es ist auch möglich, einen bereits bestehenden Artikel auszubauen, gewertet wird als Wettbewerbsbeitrag aber nur der Ausbau während der Nominierungs- und Schreibphase.
+Nominierungs- und Schreibphase: Wenn Du am Wettbewerb teilnehmen möchtest, kannst Du deinen Beitrag zwischen dem 1. und dem 31. März jederzeit selbst anmelden. Während dieser Zeit sollte der Wettbewerbsbeitrag auch maßgeblich geschrieben werden, ein Vorbereiten vor der eigentlichen Wettbewerbsphase außerhalb des Artikelnamensraums (Recherchen; offline oder im Benutzernamensraum vorschreiben etc.) ist allerdings gestattet. Neue Nominierungen werden auf dieser Seite im Abschnitt Nominierungen eingetragen. Gleichzeitig solltest Du den Baustein {{Schreibwettbewerb}} am Artikelende einfügen. Mit der Eintragung auf der Seite Wikipedia:Review/Schreibwettbewerb signalisierst du potentiellen Reviewer(inne)n, dass du auf einem Bearbeitungsstand bist, an dem du gerne Hilfe in Anspruch nehmen würdest. So kannst du wertvolle Hinweise zum weiteren Ausbau und zum Feinschliff bekommen.
+Während des Wettbewerbs: Wikipedia ist ein Gemeinschaftsprojekt. Von Diskussionen auf der Review-Seite profitieren alle. Deshalb ist es nett, wenn Du ab und zu dort vorbeischaust und mithilfst, auch die Artikel der Konkurrenz zu verbessern. Am Review kann sich jeder Wikipedianer und jede Wikipedianerin beteiligen, auch wenn er/sie nicht mit einem eigenen Artikel teilnimmt. Für besonders aktive und hilfreiche Reviewer(innen) gibt es den Reviewpreis zu gewinnen. Um die Neutralität der Jurymitglieder zu gewährleisten, nehmen diese am Reviewprozess nicht teil.
+Auswertung: Der aktuelle Schreibwettbewerb endet am 31. März 2018 um 24:00 Uhr. Auch hierbei handelt es sich um einen Richtwert. Wird der Artikel um 23:59 Uhr vandaliert, zählt natürlich die vorherige Version. Nach diesem Termin beginnt die Arbeit der Jurymitglieder. Sie stellen zunächst die sogenannten „Wettbewerbsversionen“ fest, also diejenigen Artikelversionen, die zum Stichzeitpunkt online waren. Innerhalb der nächsten Wochen werden diese Wettbewerbsversionen dann von der Jury geprüft und bewertet. Jetzt heißt es also zu warten.
+Bekanntgabe des Ergebnisses: Das Ergebnis wird voraussichtlich Anfang Mai 2018 auf dieser Seite bekanntgegeben.
+Preisvergabe: Nacheinander suchen sich die Gewinner/innen des Wettbewerbes einen der Preise aus der Liste auf dieser Seite aus (siehe weiter unten). Für die Teilnehmer/innen ist der eigentliche Wettbewerb damit abgeschlossen. Die Organisator(inne)n kümmern sich jetzt um den Versand von extern eingeworbenen Preisen, ggf. das Verschicken von Pressemitteilungen und die Archivierung der Ergebnisse.
+Nach dem Wettbewerb: Mögliche Exzellenz- oder Lesenswert-Kandidat(inn)en werden nach dem offiziellen Wettbewerbsende auf der Seite Wikipedia:Artikelkandidaturen eingestellt und können dann auch von den Jurymitgliedern bewertet werden.
+Sektionen[Quelltext bearbeiten]
+
+Ran an die Tasten ...
+Teilnehmer können ihre Artikel in einer von vier Sektionen nominieren.
+
+Diese vier Sektionen sind in diesem Wettbewerb:
+
+Sektion I: „Exakte“ Wissenschaften
+Hierzu gehören vor allem die eigentlichen Naturwissenschaften wie zum Beispiel Physik, Chemie, Biologie sowie Medizin und Tiermedizin. Ebenfalls gehören Artikel aus dem Bereich der Mathematik, der Informatik, der Technik und der Ingenieurswissenschaften zur Sektion der Exakten Wissenschaften. Alle biographischen und wissenschaftsgeschichtlichen Artikel, die zu diesem Themenfeld gehören, sind ebenfalls in diese Sektion einzuordnen.
+Sektion II: Kultur
+Hierzu gehören alle Artikel aus dem Themenbereich Kunst und Kultur, das heißt beispielsweise bildende Kunst, Architektur, Musik, Sprache, Literatur, Film und Theater, aber auch Themen der Alltagskultur.
+Sektion III: Gesellschaftswissenschaften
+Hierzu gehören vor allem Artikel aus dem Bereich Sozialwissenschaften wie Soziologie, Politikwissenschaft, Psychologie, Ethnologie oder Religionswissenschaft. Auch Geisteswissenschaften mit Ausnahme von Geschichte und Kultur – wie zum Beispiel Philosophie und Theologie – gehören in diese Sektion. Ebenso finden alle Artikel aus dem Bereich Sport (einschließlich Biografien), Verkehr (darunter Eisenbahn und Luftfahrt) sowie alle Artikel mit vornehmlich geographischem Bezug – Städte, Regionen, Staaten – in dieser Sektion Aufnahme.
+Sektion IV: Geschichte
+Hierzu gehören zum Beispiel alle historischen Ereignisse und Personen, sowie alle Bereiche der Geschichtswissenschaft: Archäologie, politische Geschichte, Wirtschafts-, Alltags- und Militärgeschichte, Themen der historischen Hilfswissenschaften usw. Als „historisch“ wird dabei alles von der Vor- und Frühgeschichte bis zur Zeitgeschichte angenommen.
+Passt ein Artikel in mehrere Sektionen, entscheidet die Jury über die endgültige Zuordnung. Ausschlaggebend ist dabei der thematische Schwerpunkt innerhalb des Artikels, in bestimmten Fällen aber auch die zahlenmäßige Verteilung der Sektionsthemen, die möglichst gleichmäßig sein sollte. Bei nicht eindeutiger Sektionszugehörigkeit eines zu nominierenden Artikels empfiehlt sich eine vorherige Anfrage auf der Diskussionsseite.
+
+
+Die Richtlinien[Quelltext bearbeiten]
+Alle Artikel, die in einem vorher abgesteckten Zeitraum nominiert werden, nehmen automatisch an der Beurteilung teil. Ausgenommen sind davon explizit Listen.
+Die „Leitung“ des Wettstreits liegt in den Händen der Jury, alle Teilnehmer/innen erklären durch ihre Teilnahme, dass sie sich nicht aufgrund der Kritik der Jury und der Beurteilung schmollend in die virtuelle Ecke zurückziehen. Die Jury wird im Vorfeld durch ein Meinungsbild nominiert.
+Prinzipiell können alle Artikel nominiert werden. Dies umfasst Artikel, die vor dem Startzeitpunkt noch gar nicht vorhanden waren, sowie alle bereits vorhandenen Artikel. Die Jury wird bei der Bewertung entsprechend die Veränderung der Artikel bewerten und nicht allein den Endzustand – Artikel mit signifikanter Verbesserung sollten neben neuen Artikeln die besten Bewertungschancen haben.
+Selbstnominierungen und auch Mehrfachnominierungen von Personen sind ausdrücklich erwünscht. Auch Autorenteams können und sollen teilnehmen. Einzig die Teilnahme der Jurymitglieder(innen) mit eigenen Artikeln ist ausgeschlossen.
+Für diesen Wettstreit werden keine Themenbereiche ausgeschlossen. Die Nominierung soll mit einer Angabe einhergehen, in welcher Sektion der Artikel am Wettbewerb teilnehmen soll. Die Juroren bzw. Jurorinnen der betroffenen Sektion(en) geben in Zweifelsfällen Auskunft und behalten sich eine Verschiebung in die passende Sektion vor.
+Nominierte Artikel können in das Wikipedia:Review/Schreibwettbewerb eingestellt werden, damit der Autor bzw. die Autorin auch von den Möglichkeiten der Mitarbeit und Kritik anderer Wikipedianer/innen profitieren kann. Juroren und Jurorinnen sind zur Vermeidung des Vorwurfs der Befangenheit vom Review ausgeschlossen. Die Autor(inn)en vergeben durch ein Meinungsbild den Sonderpreis für den/die besten Reviewer/in.
+Die Jury muss die Kriterien der Beurteilung offenlegen.
+Platzierungen werden von der Jury verbindlich festgelegt, die auch die Preisvergabe organisiert. Allein der Sonderpreis für den beliebtesten Publikumsartikel wird durch ein Meinungsbild vergeben. Die Wahlmodalitäten legt die Community fest.
+Urheberrechtsverletzungen oder Bestechungsversuche führen zu einem Ausschluss des Artikels.
+Die Artikel, die am Schreibwettbewerb teilnehmen, können erst nach Bekanntgabe des Wettbewerbsergebnisses für die Exzellenten Artikel oder die Lesenswerten Artikel kandidieren, da sonst die Jury nicht an der Abstimmung teilnehmen könnte.
+Zeitplan[Quelltext bearbeiten]
+02.02.2018–21.02.2018	Nominierungsphase für die Jury. In diesem Zeitraum können Jurymitglieder vorgeschlagen werden. Diese müssen der Teilnahme auch zustimmen; gewählt wird erst im Anschluss. Dabei sind Jury-Mitglieder des letzten Wettbewerbs ausgeschlossen.
+22.02.2018–28.02.2018	In diesem Zeitraum werden die Jurymitglieder gewählt. Als gewählt gelten jeweils die beiden Nominierten, die nach der Wahl in ihrer Sektion die meisten Stimmen erhalten haben. Als Grundlage für die Wahl gilt die Wikipedia:Stimmberechtigung.
+01.03.2018	Die Nominierung der Artikel beginnt und dauert bis zum 31.03.2018.
+31.03.2018	Letzte Nominierungsmöglichkeit. Bewertet werden im Normalfall die Versionen, die am letzten Nominierungstag um 23:59 Uhr online sind.
+01.04.2018–Ende April 2018	Die Juroren werten die Nominierungen aus. Bis Ende April 2018 können Stimmen für den Publikumspreis abgegeben werden. Die Bekanntgabe des Ergebnisses erfolgt nach der Bekanntgabe der Jury, um Beeinflussungen zu vermeiden.
+29.04.2018	Spätester Termin der Bekanntgabe des Votums der Jury (Jurytreffen 28./29.04.2018 in Köln).
+Die Jury[Quelltext bearbeiten]
+Ergebnis der Jurywahl, Stand 28. Februar 2018, 24h00:
+
+I. Exakte Wissenschaften[Quelltext bearbeiten]
+Achim Raschka (Bewertungskriterien) (67)
+Ghilt (Bewertungskriterien) (57)
+Nachrücker: Methodios (Bewertungskriterien) (11)
+II. Kultur[Quelltext bearbeiten]
+Geolina (Bewertungskriterien) (47)
+Brodkey65 (37)
+Nachrücker: Catfisheye (Bewertungskriterien) (35)
+III. Gesellschaftswissenschaften[Quelltext bearbeiten]
+Phzh (Bewertungskriterien) (52)
+Lutheraner (Bewertungskriterien) (43)
+Nachrücker: V (22)
+IV. Geschichte[Quelltext bearbeiten]
+Atomiccocktail (Bewertungskriterien) (34)
+Enzian44 (34)
+Nachrücker: Miraki (Bewertungskriterien) (31)
+Nominierte Artikel[Quelltext bearbeiten]
+So nominierst Du einen Artikel:
+
+Liste ihn hier in der passenden Sektion. Wenn Du nicht weißt, in welche Sektion Dein Artikel gehört, dann trage ihn einfach irgendwo ein. Er wird dann später umsortiert, wenn das nötig sein sollte. Bitte schildere wenigstens in ein oder zwei Sätzen, wie Du den Artikel geplant hast, den Du schreiben möchtest. So können erfahrene Wikipedianer im Review besser helfen.
+Setze in den Artikel den Baustein {{Schreibwettbewerb}}.
+Trage den Artikel im Schreibwettbewerb-Review ein, wenn du Feedback von anderen erhalten willst.
+Hinweis: Die aktuellen Entscheidungen der Jury zu nicht eindeutigen Nominierungen befinden sich auf der Diskussionsseite
+
+I. Exakte Wissenschaften[Quelltext bearbeiten]
+[Zur Reviewseite]
+
+Long short-term memory (Wettbewerbsversion)
+Weihen (Gattung) (Wettbewerbsversion)
+Mathematik im mittelalterlichen Islam (Wettbewerbsversion, Neuanlage)
+Chronische Wunde (Wettbewerbsversion, Neuanlage)
+FeLV-Infektion (Wettbewerbsversion)
+Atomic Mass Evaluation (Wettbewerbsversion, Neuanlage)
+Enterobacter (Wettbewerbsversion)
+Ornithogalum insulare (Wettbewerbsversion, Neuanlage)
+II. Kultur[Quelltext bearbeiten]
+[Zur Reviewseite]
+
+Skibo Castle (Wettbewerbsversion)
+Das Ei und ich (Buch) (Wettbewerbsversion, Neuanlage)
+Wildensteiner Altar (Wettbewerbsversion, Neuanlage)
+Italienische populäre Musik (Wettbewerbsversion, Neuanlage)
+Place of Skulls (Wettbewerbsversion, Neuanlage)
+Frau Stuckhatorin (Wettbewerbsversion, Neuanlage)
+Nordseekrabbe (Lebensmittel) (Wettbewerbsversion, Neuanlage)
+Anastasia (Musical) (Wettbewerbsversion, Neuanlage)
+Sargfabrik (Wien) (Wettbewerbsversion, Neuanlage)
+Seba Johnson (Wettbewerbsversion, Neuanlage)
+III. Gesellschaftswissenschaften[Quelltext bearbeiten]
+[Zur Reviewseite]
+
+Münchner Verkehrsgesellschaft (Wettbewerbsversion)
+Plesse-Konstein-Karnberg (Wettbewerbsversion, Neuanlage)
+Fraktion Christlicher Gewerkschafter (Wettbewerbsversion)
+Vegan Straight Edge (Wettbewerbsversion, Neuanlage)
+Rechtswissenschaftliche Fakultät der Universität des Saarlandes (Wettbewerbsversion, Neuanlage)
+Niederdeutsch (Schulfach) (Wettbewerbsversion, Neuanlage)
+Färberei Hauptvogel (Ortrand) (Wettbewerbsversion, Neuanlage)
+Holyland-Modell der Stadt Jerusalem (Wettbewerbsversion, Neuanlage)
+Verwaltungsakt (Deutschland) (Wettbewerbsversion)
+IV. Geschichte[Quelltext bearbeiten]
+[Zur Reviewseite]
+
+Friedrich der Schöne (Wettbewerbsversion)
+James Monroe (Wettbewerbsversion)
+Białystok-Prozess (Wettbewerbsversion, Neuanlage)
+Tempel der ägyptischen Götter (Gortyn) (Wettbewerbsversion, Neuanlage)
+George S. Morison (Wettbewerbsversion, Neuanlage)
+Geschichte des Hotzenwalds (Wettbewerbsversion, Neuanlage)
+Schloss Boller (Wettbewerbsversion, Neuanlage)
+Roussolakkos (Wettbewerbsversion, Neuanlage)
+Welcker-Serenade (Wettbewerbsversion, Neuanlage)
+Hugo Dietrich (Wettbewerbsversion, Neuanlage)
+Geleitzug SC 122 (Wettbewerbsversion, Neuanlage)
+Ben B. Lindsey (Wettbewerbsversion, Neuanlage)
+Johanna Catharina Höhn (Wettbewerbsversion, Neuanlage)
+Preise[Quelltext bearbeiten]
+Obwohl die wichtigsten und interessantesten Preise die sind, die niemand mit Geld bezahlen kann, namentlich der Spaß und die Freude an der Teilnahme und Glanz und Gloria als Gewinner der Aktion, gibt es dank einiger Spender auch eine große Auswahl an Sachpreisen für die Gewinner.
+
+Die Vergabe der Preise erfolgt nach Einschätzung der Jury (mit Ausnahme des Publikumspreises). Der bzw. die Sieger suchen sich aus den angebotenen allgemeinen Preisen einen aus, beginnend mit den Erstplatzierten – wählen Gleichplatzierte verschiedener Sektionen denselben Preis, entscheidet das Los. Weitere Sachspenden sind natürlich für diesen und spätere Schreibwettbewerbe sehr willkommen. Auf jeden Fall mit einem Preis bedacht werden die drei Bestplatzierten. Darüber hinaus legt die Jury eine Platzierungsliste derjenigen Artikel vor, die sich ebenfalls für eine Preisvergabe qualifiziert haben. In Ergänzung dazu kann sie einzelne Artikel zusätzlich mit themengebundenen Sonderpreisen ihrer Wahl auszeichnen.
+
+Gespendet wurden bisher (Reihenfolge der Spenden):
+
+Allgemeine Preise[Quelltext bearbeiten]
+Privatspenden[Quelltext bearbeiten]
+Wie immer: zwei Gläser selbstgemachte Marmelade, Sorte steht noch nicht fest. Gruß--Emergency doc (D) 23:43, 6. Feb. 2018 (CET)
+500 g Darjeeling (Bio). --† Alt ♂ 12:10, 7. Feb. 2018 (CET)
+Ein Gläschen Maronenröhrlinge (Imleria badia).--† Alt ♂ 12:10, 7. Feb. 2018 (CET)
+Propyläen: Geschichte der Literatur - Literatur und Gesellschaft der westlichen Welt - in 6 Bänden. Propyläen Verlag, 1988
+Friedrich Schiller: Ausgewählte Dramen. Mit Illustrationen von Johann Heinrich Ramberg. Halbledereinband mit ornamentaler Deckelvergoldung. Franklin-Bibliothek, Ottobrunn bei München 1981
+Thomas Mann: Sämtliche Erzählungen in zwei Bänden. 6. Auflage, S. Fischer Verlag, Frankfurt 1997
+Alfred Polgar: Das große Lesebuch. Zusammengetragen und mit einem Vorwort von Harry Rowohlt. 3. Auflage, Kein & Aber, Zürich 2003
+Glenn Gould: Vom Konzertsaal zum Tonstudio. Piper, München 1987 --Gustav (Diskussion) 14:06, 27. Feb. 2018 (CET)
+Einmal hat es ja schon geklappt: eine Woche Kost und Logis in Palermo mit Transfer vom und zum Flughafen und die eine oder andere Führung. Muß mit meinen Aufenthalten in Sizilien abgestimmt werden (Frühjahr und Herbst). --Enzian44 (Diskussion) 03:31, 22. Feb. 2018 (CET) Weniger geeignet für Veganer, Vegetarier und militante Nichtraucher.
+Der Dativ ist dem Genitiv sein Tod – Das Spiel zum Buch. Quizspiel zur deutschen Sprache, Kosmos, originalverpackt - – — zyranivia 16:53, 22. Feb. 2018 (CET)
+Im Rahmen von Wikipedia spielt spende ich einmal das Spiel Dominion in der aktuellen Rio-Grande/ASS-Version (neu, in Folie) + jeweils ein Paket der offiziellen Promokarten Höflinge, Sauna/Eisloch und Abbruch -- Achim Raschka (Diskussion) 14:03, 27. Feb. 2018 (CET)
+Und ich spende noch einmal Broom Service (Kennerspiel des Jahres 2015), ebenfalls originalverpackt.--† Alt ♂ 19:19, 28. Feb. 2018 (CET)
+Analog zum Miniaturenwettbewerb: Gemeinsames Koch- und Fotoevent im Lokal K für bis zu drei Personen mit Teilen der Kölner Community. -- Achim Raschka (Diskussion) 12:13, 6. Mär. 2018 (CET)
+Christian Dietz, Otto von Helversen, Dietmar Nill: Handbuch der Fledermäuse Europas und Nordwestafrikas. 2007, Kosmos. -- Density Disk. 14:05, 10. Mär. 2018 (CET)
+Jochen Hölzinger: Die Vögel Baden-Württembergs, Bd. 1, Teile I-III (Gefährdung und Schutz). 1987, Ulmer. -- Density Disk. 14:17, 10. Mär. 2018 (CET)
+Frisch von der Nordsee: Das kleine Küstenkochbuch, ISBN 978-3-86941-500-0 & ein Hering. --Jocian 13:00, 21. Mär. 2018 (CET)
+Spenden von Unternehmen, Organisationen und Institutionen[Quelltext bearbeiten]
+Sollten Sie daran interessiert sein, uns als Unternehmen, Organisation oder Institution mit einer Preisspende zu unterstützen, können Sie diese direkt hier eintragen. Zur Vermittlung bitten wir Sie, Kontakt mit XY aufzunehmen.
+
+Preisspende	Kontakt	Stifter/in
+Der Verlag Dr. Friedrich Pfeil stiftet eine Ausgabe von
+Gloria Arratia, Hans-Peter Schultze, Helmut Tischlinger & Günter Viohl: Solnhofen – Ein Fenster in die Jurazeit (Band 1 & 2). Pfeil Verlag, München 2015
+TAM	Verlag Dr. Friedrich Pfeil
+S. Fischer stiftet
+2× Carlos Ruiz Zafón: Das Labyrinth der Lichter. S. Fischer, Frankfurt 2016
+TAM	S. Fischer Verlag
+Wikipedia-Kapuzenpullover oder Wikipedia-Sweatshirt (Form und Größe nach Wahl)
+Nr. 1
+Nr. 2
+Nr. 3
+verein@wikimedia.at	Wikimedia Österreich
+Wie schon zu den vergangenen Schreibwettbeweben spenden wir insgesamt drei personalisierte Wikipedia-Polo-Shirts (mit gesticktem Benutzernamen). 
+Bitte gewünschte Farbe und Grösse angeben.
+Nr. 1
+Nr. 2
+Nr. 3
+lantus@wikimedian.ch	Wikimedia CH
+Der Deutsches Museum Shop stiftet drei Paradox Quantum flowMotion Sanduhren in
+rot
+grün
+magenta
+TAM	Deutsches Museum Shop
+Deutsches Museum Shop
+Büchergutscheine von WMDE
+1 Büchergutschein à 150 €
+1 Büchergutschein à 100 €
+1 Büchergutschein à 60 €
+community@wikimedia.de	Wikimedia Deutschland
+Sonderpreise[Quelltext bearbeiten]
+Privatspenden[Quelltext bearbeiten]
+Siddhartha Mukherjee: Der König aller Krankheiten: Krebs - eine Biografie für den bestplatzierten Artikel zu einem medizinhistorischen, alternativ zu einem medizinischen Thema. --Jaax (Diskussion) 11:37, 17. Feb. 2018 (CET)
+Spenden von Unternehmen, Organisationen und Institutionen[Quelltext bearbeiten]
+Sollten Sie daran interessiert sein, uns als Unternehmen, Organisation oder Institution mit einer Preisspende zu unterstützen, können Sie diese direkt hier eintragen. Zur Vermittlung bitten wir Sie, Kontakt mit XY aufzunehmen.
+
+Preisspende	Kontakt	Stifter/in
+Presse[Quelltext bearbeiten]
+Kategorie: Wikipedia:Schreibwettbewerb
+Navigationsmenü
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmeldenProjektseiteDiskussionLesenQuelltext bearbeitenVersionsgeschichteSuche
+
+Wikipedia durchsuchen
+Artikel
+Hauptseite
+Themenportale
+Von A bis Z
+Zufälliger Artikel
+Mitmachen
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+Hilfe
+Letzte Änderungen
+Kontakt
+Spenden
+Werkzeuge
+Links auf diese Seite
+Änderungen an verlinkten Seiten
+Spezialseiten
+Permanenter Link
+Seiten­informationen
+Wikidata-Datenobjekt
+Drucken/­exportieren
+Buch erstellen
+Als PDF herunterladen
+Druckversion
+In anderen Projekten
+Commons
+
+In anderen Sprachen
+العربية
+English
+Español
+Français
+日本語
+Português
+Русский
+Українська
+中文
+19 weitere
+Links bearbeiten
+Diese Seite wurde zuletzt am 11. April 2018 um 11:42 Uhr bearbeitet.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+DatenschutzÜber WikipediaImpressumEntwicklerStellungnahme zu CookiesMobile AnsichtWikimedia Foundation Powered by MediaWiki
+

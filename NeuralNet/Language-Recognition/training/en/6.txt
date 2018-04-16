@@ -1,0 +1,629 @@
+ 
+Alkaloid
+From Wikipedia, the free encyclopedia
+This article is about the class of chemical compounds. For the pharmaceutical company, see Alkaloid (company).
+
+The first individual alkaloid, morphine, was isolated in 1804 from the opium poppy (Papaver somniferum).[1]
+Alkaloids are a group of naturally occurring chemical compounds that mostly contain basic nitrogen atoms. This group also includes some related compounds with neutral[2] and even weakly acidic properties.[3] Some synthetic compounds of similar structure are also termed alkaloids.[4] In addition to carbon, hydrogen and nitrogen, alkaloids may also contain oxygen, sulfur and, more rarely, other elements such as chlorine, bromine, and phosphorus.[5]
+
+Alkaloids are produced by a large variety of organisms including bacteria, fungi, plants, and animals. They can be purified from crude extracts of these organisms by acid-base extraction. Alkaloids have a wide range of pharmacological activities including antimalarial (e.g. quinine), antiasthma (e.g. ephedrine), anticancer (e.g. homoharringtonine),[6] cholinomimetic (e.g. galantamine),[7] vasodilatory (e.g. vincamine), antiarrhythmic (e.g. quinidine), analgesic (e.g. morphine),[8] antibacterial (e.g. chelerythrine),[9] and antihyperglycemic activities (e.g. piperine).[10] Many have found use in traditional or modern medicine, or as starting points for drug discovery. Other alkaloids possess psychotropic (e.g. psilocin) and stimulant activities (e.g. cocaine, caffeine, nicotine, theobromine),[11] and have been used in entheogenic rituals or as recreational drugs. Alkaloids can be toxic too (e.g. atropine, tubocurarine).[12] Although alkaloids act on a diversity of metabolic systems in humans and other animals, they almost uniformly evoke a bitter taste.[13]
+
+The boundary between alkaloids and other nitrogen-containing natural compounds is not clear-cut.[14] Compounds like amino acid peptides, proteins, nucleotides, nucleic acid, amines, and antibiotics are usually not called alkaloids.[2] Natural compounds containing nitrogen in the exocyclic position (mescaline, serotonin, dopamine, etc.) are usually classified as amines rather than as alkaloids.[15] Some authors, however, consider alkaloids a special case of amines.[16][17][18]
+
+Contents  [hide] 
+1	Naming
+2	History
+3	Classifications
+4	Properties
+5	Distribution in nature
+6	Extraction
+7	Biosynthesis
+7.1	Synthesis of Schiff bases
+7.2	Mannich reaction
+8	Dimer alkaloids
+9	Biological role
+10	Applications
+10.1	In medicine
+10.2	In agriculture
+10.3	Use as psychoactive drugs
+11	See also
+12	Notes
+13	References
+14	Bibliography
+Naming[edit]
+
+The article that introduced the concept of "alkaloid".
+The name "alkaloids" (German: Alkaloide) was introduced in 1819 by the German chemist Carl Friedrich Wilhelm Meißner, and is derived from late Latin root Latin: alkali (which, in turn, comes from the Arabic al-qalwī – "ashes of plants") and the suffix Greek: -οειδής – "like".[nb 1] However, the term came into wide use only after the publication of a review article by Oscar Jacobsen in the chemical dictionary of Albert Ladenburg in the 1880s.[19][20]
+
+There is no unique method of naming alkaloids.[21] Many individual names are formed by adding the suffix "ine" to the species or genus name.[22] For example, atropine is isolated from the plant Atropa belladonna, strychnine is obtained from the seed of Strychnine tree (Strychnos nux-vomica L.).[5] If several alkaloids are extracted from one plant then their names often contain suffixes "idine", "anine", "aline", "inine" etc. There are also at least 86 alkaloids whose names contain the root "vin" because they are extracted from vinca plants such as Vinca rosea (Catharanthus roseus);[23] these are called vinca alkaloids.[24][25][26]
+
+History[edit]
+
+Friedrich Sertürner, the German chemist who first isolated morphine from opium.
+Alkaloid-containing plants have been used by humans since ancient times for therapeutic and recreational purposes. For example, medicinal plants have been known in the Mesopotamia at least around 2000 BC.[27] The Odyssey of Homer referred to a gift given to Helen by the Egyptian queen, a drug bringing oblivion. It is believed that the gift was an opium-containing drug.[28] A Chinese book on houseplants written in 1st–3rd centuries BC mentioned a medical use of Ephedra and opium poppies.[29] Also, coca leaves have been used by South American Indians since ancient times.[30]
+
+Extracts from plants containing toxic alkaloids, such as aconitine and tubocurarine, were used since antiquity for poisoning arrows.[27]
+
+Studies of alkaloids began in the 19th century. In 1804, the German chemist Friedrich Sertürner isolated from opium a "soporific principle" (Latin: principium somniferum), which he called "morphium" in honor of Morpheus, the Greek god of dreams; in German and some other Central-European languages, this is still the name of the drug. The term "morphine", used in English and French, was given by the French physicist Joseph Louis Gay-Lussac.
+
+A significant contribution to the chemistry of alkaloids in the early years of its development was made by the French researchers Pierre Joseph Pelletier and Joseph Bienaimé Caventou, who discovered quinine (1820) and strychnine (1818). Several other alkaloids were discovered around that time, including xanthine (1817), atropine (1819), caffeine (1820), coniine (1827), nicotine (1828), colchicine (1833), sparteine (1851), and cocaine (1860).[31]
+
+The first complete synthesis of an alkaloid was achieved in 1886 by the German chemist Albert Ladenburg. He produced coniine by reacting 2-methylpyridine with acetaldehyde and reducing the resulting 2-propenyl pyridine with sodium.[32][33] The development of the chemistry of alkaloids was accelerated by the emergence of spectroscopic and chromatographic methods in the 20th century, so that by 2008 more than 12,000 alkaloids had been identified.[34]
+
+
+Bufotenin, an alkaloid from some toads, contains an indole core and is produced in living organisms from the amino acid tryptophan.
+Classifications[edit]
+
+The nicotine molecule contains both pyridine (left) and pyrrolidine rings (right).
+Compared with most other classes of natural compounds, alkaloids are characterized by a great structural diversity and there is no uniform classification of alkaloids.[35] First classification methods have historically combined alkaloids by the common natural source, e.g., a certain type of plants. This classification was justified by the lack of knowledge about the chemical structure of alkaloids and is now considered obsolete.[5][36]
+
+More recent classifications are based on similarity of the carbon skeleton (e.g., indole-, isoquinoline-, and pyridine-like) or biochemical precursor (ornithine, lysine, tyrosine, tryptophan, etc.).[5] However, they require compromises in borderline cases;[35] for example, nicotine contains a pyridine fragment from nicotinamide and a pyrrolidine part from ornithine[37] and therefore can be assigned to both classes.[38]
+
+Alkaloids are often divided into the following major groups:[39]
+
+"True alkaloids" contain nitrogen in the heterocycle and originate from amino acids.[40] Their characteristic examples are atropine, nicotine, and morphine. This group also includes some alkaloids that besides nitrogen heterocycle contain terpene (e.g., evonine[41]) or peptide fragments (e.g. ergotamine[42]). This group also includes piperidine alkaloids coniine and coniceine[43] although they do not originate from amino acids.[44]
+"Protoalkaloids", which contain nitrogen and also originate from amino acids.[40] Examples include mescaline, adrenaline and ephedrine.
+Polyamine alkaloids – derivatives of putrescine, spermidine, and spermine.
+Peptide and cyclopeptide alkaloids.[45]
+Pseudoalkaloids – alkaloid-like compounds that do not originate from amino acids.[46] This group includes terpene-like and steroid-like alkaloids,[47] as well as purine-like alkaloids such as caffeine, theobromine, theacrine and theophylline.[48] Some authors classify as pseudoalkaloids such compounds such as ephedrine and cathinone. Those originate from the amino acid phenylalanine, but acquire their nitrogen atom not from the amino acid but through transamination.[48][49]
+Some alkaloids do not have the carbon skeleton characteristic of their group. So, galantamine and homoaporphines do not contain isoquinoline fragment, but are, in general, attributed to isoquinoline alkaloids.[50]
+
+Main classes of monomeric alkaloids are listed in the table below:
+
+Class	Major groups	Main synthesis steps	Examples
+Alkaloids with nitrogen heterocycles (true alkaloids)
+Pyrrolidine derivatives[51]
+Pyrrolidine structure.svg
+Ornithine or arginine → putrescine → N-methylputrescine → N-methyl-Δ1-pyrroline [52]	Cuscohygrine, hygrine, hygroline, stachydrine[51][53]
+Tropane derivatives[54]
+Tropane numbered.svg
+Atropine group
+Substitution in positions 3, 6 or 7	Ornithine or arginine → putrescine → N-methylputrescine → N-methyl-Δ1-pyrroline [52]	Atropine, scopolamine, hyoscyamine[51][54][55]
+Cocaine group
+Substitution in positions 2 and 3	Cocaine, ecgonine [54][56]
+Pyrrolizidine derivatives[57]
+Pyrrolizidine.svg
+Non-esters	In plants: ornithine or arginine → putrescine → homospermidine → retronecine [52]	Retronecine, heliotridine, laburnine [57][58]
+Complex esters of monocarboxylic acids	Indicine, lindelophin, sarracine [57]
+Macrocyclic diesters	Platyphylline, trichodesmine[57]
+1-aminopyrrolizidines (lolines)	In fungi: L-proline + L-homoserine → N-(3-amino-3-carboxypropyl)proline → norloline[59][60]	Loline, N-formylloline, N-acetylloline[61]
+Piperidine derivatives[62]
+Piperidin.svg
+Lysine → cadaverine → Δ1-piperideine [63]	Sedamine, lobeline, anaferine, piperine [43][64]
+Octanoic acid → coniceine → coniine [44]	Coniine, coniceine [44]
+Quinolizidine derivatives[65][66]
+Quinolizidine.svg
+Lupinine group	Lysine → cadaverine → Δ1-piperideine [67]	Lupinine, nupharidin [65]
+Cytisine group	Cytisine [65]
+Sparteine group	Sparteine, lupanine, anahygrine[65]
+Matrine group	Matrine, oxymatrine, allomatridine[65][68][69]
+Ormosanine group	Ormosanine, piptantine[65][70]
+Indolizidine derivatives[71]
+Indolizidine.svg
+Lysine → δ-semialdehyde of α-aminoadipic acid → pipecolic acid → 1 indolizidinone [72]	Swainsonine, castanospermine [73]
+Pyridine derivatives[74][75]
+Pyridine.svg
+Simple derivatives of pyridine	Nicotinic acid → dihydronicotinic acid → 1,2-dihydropyridine [76]	Trigonelline, ricinine, arecoline [74][77]
+Polycyclic noncondensing pyridine derivatives	Nicotine, nornicotine, anabasine, anatabine [74][77]
+Polycyclic condensed pyridine derivatives	Actinidine, gentianine, pediculinine [78]
+Sesquiterpene pyridine derivatives	Nicotinic acid, isoleucine [18]	Evonine, hippocrateine, triptonine [75][76]
+Isoquinoline derivatives and related alkaloids [79]
+Isoquinoline numbered.svg
+Simple derivatives of isoquinoline [80]	Tyrosine or phenylalanine → dopamine or tyramine (for alkaloids Amarillis) [81][82]	Salsoline, lophocerine [79][80]
+Derivatives of 1- and 3-isoquinolines [83]	N-methylcoridaldine, noroxyhydrastinine [83]
+Derivatives of 1- and 4-phenyltetrahydroisoquinolines [80]	Cryptostilin [80][84]
+Derivatives of 5-naftil-isoquinoline [85]	Ancistrocladine [85]
+Derivatives of 1- and 2-benzyl-izoquinolines [86]	Papaverine, laudanosine, sendaverine
+Cularine group[87]	Cularine, yagonine [87]
+Pavines and isopavines [88]	Argemonine, amurensine [88]
+Benzopyrrocolines [89]	Cryptaustoline [80]
+Protoberberines [80]	Berberine, canadine, ophiocarpine, mecambridine, corydaline [90]
+Phthalidisoquinolines [80]	Hydrastine, narcotine (Noscapine) [91]
+Spirobenzylisoquinolines [80]	Fumaricine [88]
+Ipecacuanha alkaloids[92]	Emetine, protoemetine, ipecoside [92]
+Benzophenanthridines [80]	Sanguinarine, oxynitidine, corynoloxine [93]
+Aporphines [80]	Glaucine, coridine, liriodenine [94]
+Proaporphines [80]	Pronuciferine, glaziovine [80][89]
+Homoaporphines [95]	Kreysiginine, multifloramine [95]
+Homoproaporphines [95]	Bulbocodine [87]
+Morphines[96]	Morphine, codeine, thebaine, sinomenine [97]
+Homomorphines [98]	Kreysiginine, androcymbine [96]
+Tropoloisoquinolines [80]	Imerubrine [80]
+Azofluoranthenes [80]	Rufescine, imeluteine [99]
+Amaryllis alkaloids[100]	Lycorine, ambelline, tazettine, galantamine, montanine [101]
+Erythrina alkaloids[84]	Erysodine, erythroidine [84]
+Phenanthrene derivatives [80]	Atherosperminine [80][90]
+Protopines [80]	Protopine, oxomuramine, corycavidine [93]
+Aristolactam [80]	Doriflavin [80]
+Oxazole derivatives[102]
+Oxazole structure.svg
+Tyrosine → tyramine [103]	Annuloline, halfordinol, texaline, texamine[104]
+Isoxazole derivatives
+Isoxazole structure.png
+Ibotenic acid → Muscimol	Ibotenic acid, Muscimol
+Thiazole derivatives[105]
+Thiazole structure.svg
+1-Deoxy-D-xylulose 5-phosphate (DOXP), tyrosine, cysteine [106]	Nostocyclamide, thiostreptone [105][107]
+Quinazoline derivatives[108]
+Quinazoline numbered.svg
+3,4-Dihydro-4-quinazolone derivatives	Anthranilic acid or phenylalanine or ornithine [109]	Febrifugine[110]
+1,4-Dihydro-4-quinazolone derivatives	Glycorine, arborine, glycosminine[110]
+Pyrrolidine and piperidine quinazoline derivatives	Vazicine (peganine) [102]
+Acridine derivatives[102]
+Acridine.svg
+Anthranilic acid [111]	Rutacridone, acronicine[112][113]
+Quinoline derivatives[114][115]
+Quinoline numbered.svg
+Simple derivatives of quinoline derivatives of 2–quinolones and 4-quinolone	Anthranilic acid → 3-carboxyquinoline [116]	Cusparine, echinopsine, evocarpine[115][117][118]
+Tricyclic terpenoids	Flindersine[115][119]
+Furanoquinoline derivatives	Dictamnine, fagarine, skimmianine[115][120][121]
+Quinines	Tryptophan → tryptamine → strictosidine (with secologanin) → korinanteal → cinhoninon [82][116]	Quinine, quinidine, cinchonine, cinhonidine [119]
+Indole derivatives[97]
+Indole numbered.svg
+See also: indole alkaloids
+Non-isoprene indole alkaloids
+Simple indole derivatives [122]	Tryptophan → tryptamine or 5-hydroxitriptofan [123]	Serotonin, psilocybin, dimethyltryptamine (DMT), bufotenin [124][125]
+Simple derivatives of β-carboline [126]	Harman, harmine, harmaline, eleagnine [122]
+Pyrroloindole alkaloids [127]	Physostigmine (eserine), etheramine, physovenine, eptastigmine[127]
+Semiterpenoid indole alkaloids
+Ergot alkaloids[97]	Tryptophan → chanoclavine → agroclavine → elimoclavine → paspalic acid → lysergic acid [127]	Ergotamine, ergobasine, ergosine[128]
+Monoterpenoid indole alkaloids
+Corynanthe type alkaloids[123]	Tryptophan → tryptamine → strictosidine (with secologanin) [123]	Ajmalicine, sarpagine, vobasine, ajmaline, yohimbine, reserpine, mitragynine,[129][130] group strychnine and (Strychnine brucine, aquamicine, vomicine [131])
+Iboga-type alkaloids[123]	Ibogamine, ibogaine, voacangine[123]
+Aspidosperma-type alkaloids[123]	Vincamine, vinca alkaloids,[24][132] vincotine, aspidospermine[133][134]
+Imidazole derivatives[102]
+Imidazole structure.svg
+Directly from histidine[135]	Histamine, pilocarpine, pilosine, stevensine[102][135]
+Purine derivatives[136]
+9H-Purine.svg
+Xanthosine (formed in purine biosynthesis) → 7 methylxantosine → 7-methyl xanthine → theobromine → caffeine [82]	Caffeine, theobromine, theophylline, saxitoxin [137][138]
+Alkaloids with nitrogen in the side chain (protoalkaloids)
+β-Phenylethylamine derivatives[89]
+Phenylethylamine numbered.svg
+Tyrosine or phenylalanine → dioxyphenilalanine → dopamine → adrenaline and mescaline tyrosine → tyramine phenylalanine → 1-phenylpropane-1,2-dione → cathinone → ephedrine and pseudoephedrine [18][49][139]	Tyramine, ephedrine, pseudoephedrine, mescaline, cathinone, catecholamines (adrenaline, noradrenaline, dopamine)[18][140]
+Colchicine alkaloids [141]
+Colchicine.svg
+Tyrosine or phenylalanine → dopamine → autumnaline → colchicine [142]	Colchicine, colchamine[141]
+Muscarine [143]
+Muscarine.svg
+Glutamic acid → 3-ketoglutamic acid → muscarine (with pyruvic acid)[144]	Muscarine, allomuscarine, epimuscarine, epiallomuscarine[143]
+Benzylamine[145]
+Benzylamine.svg
+Phenylalanine with valine, leucine or isoleucine[146]	Capsaicin, dihydrocapsaicin, nordihydrocapsaicin, vanillylamine[145][147]
+Polyamines alkaloids
+Putrescine derivatives[148]
+Putrescine.svg
+ornithine → putrescine → spermidine → spermine[149]	Paucine [148]
+Spermidine derivatives[148]
+Spermidine.svg
+Lunarine, codonocarpine[148]
+Spermine derivatives[148]
+Spermine.svg
+Verbascenine, aphelandrine [148]
+Peptide (cyclopeptide) alkaloids
+Peptide alkaloids with a 13-membered cycle [45][150]	Nummularine C type	From different amino acids [45]	Nummularine C, Nummularine S [45]
+Ziziphine type	Ziziphine A, sativanine H [45]
+Peptide alkaloids with a 14-membered cycle [45][150]	Frangulanine type	Frangulanine, scutianine J [150]
+Scutianine A type	Scutianine A [45]
+Integerrine type	Integerrine, discarine D [150]
+Amphibine F type	Amphibine F, spinanine A [45]
+Amfibine B type	Amphibine B, lotusine C [45]
+Peptide alkaloids with a 15-membered cycle [150]	Mucronine A type	Mucronine A [42][150]
+Pseudoalkaloids (terpenes and steroids)
+Diterpenes [42]
+Isoprene.svg
+Lycoctonine type	Mevalonic acid → izopentenilpyrophosfate → geranyl pyrophosphate [151][152]	Aconitine, delphinine [42][153]
+Steroids[154]
+Cyclopentenophenanthrene.svg
+Cholesterol, arginine[155]	Solasodine, solanidine, veralkamine, batrachotoxin[156]
+Properties[edit]
+
+Head of a lamb born to a sheep that ate leaves of the corn lily plant. The cyclopia in the calf is induced by the alkaloid cyclopamine present in the plant.
+Most alkaloids contain oxygen in their molecular structure; those compounds are usually colorless crystals at ambient conditions. Oxygen-free alkaloids, such as nicotine[157] or coniine,[32] are typically volatile, colorless, oily liquids.[158] Some alkaloids are colored, like berberine (yellow) and sanguinarine (orange).[158]
+
+Most alkaloids are weak bases, but some, such as theobromine and theophylline, are amphoteric.[159] Many alkaloids dissolve poorly in water but readily dissolve in organic solvents, such as diethyl ether, chloroform or 1,2-dichloroethane. Caffeine,[160] cocaine,[161] codeine[162] and nicotine[163] are slightly soluble in water (with a solubility of ≥1g/L), whereas others, including morphine[164] and yohimbine[165] are very slightly water-soluble (0.1–1 g/L). Alkaloids and acids form salts of various strengths. These salts are usually freely soluble in water and ethanol and poorly soluble in most organic solvents. Exceptions include scopolamine hydrobromide, which is soluble in organic solvents, and the water-soluble quinine sulfate.[158]
+
+Most alkaloids have a bitter taste or are poisonous when ingested. Alkaloid production in plants appeared to have evolved in response to feeding by herbivorous animals; however, some animals have evolved the ability to detoxify alkaloids.[166] Some alkaloids can produce developmental defects in the offspring of animals that consume but cannot detoxify the alkaloids. One example is the alkaloid cyclopamine, produced in the leaves of corn lily. During the 1950s, up to 25% of lambs born by sheep that had grazed on corn lily had serious facial deformations. These ranged from deformed jaws to cyclopia (see picture). After decades of research, in the 1980s, the compound responsible for these deformities was identified as the alkaloid 11-deoxyjervine, later renamed to cyclopamine.[167]
+
+Distribution in nature[edit]
+
+Strychnine tree. Its seeds are rich in strychnine and brucine.
+Alkaloids are generated by various living organisms, especially by higher plants – about 10 to 25% of those contain alkaloids.[168][169] Therefore, in the past the term "alkaloid" was associated with plants.[170]
+
+The alkaloids content in plants is usually within a few percent and is inhomogeneous over the plant tissues. Depending on the type of plants, the maximum concentration is observed in the leaves (black henbane), fruits or seeds (Strychnine tree), root (Rauwolfia serpentina) or bark (cinchona).[171] Furthermore, different tissues of the same plants may contain different alkaloids.[172]
+
+Beside plants, alkaloids are found in certain types of fungi, such as psilocybin in the fungus of the genus Psilocybe, and in animals, such as bufotenin in the skin of some toads.[21] Many marine organisms also contain alkaloids.[173] Some amines, such as adrenaline and serotonin, which play an important role in higher animals, are similar to alkaloids in their structure and biosynthesis and are sometimes called alkaloids.[174]
+
+Extraction[edit]
+
+Crystals of piperine extracted from black pepper.
+Because of the structural diversity of alkaloids, there is no single method of their extraction from natural raw materials.[175] Most methods exploit the property of most alkaloids to be soluble in organic solvents but not in water, and the opposite tendency of their salts.
+
+Most plants contain several alkaloids. Their mixture is extracted first and then individual alkaloids are separated.[176] Plants are thoroughly ground before extraction.[175][177] Most alkaloids are present in the raw plants in the form of salts of organic acids.[175] The extracted alkaloids may remain salts or change into bases.[176] Base extraction is achieved by processing the raw material with alkaline solutions and extracting the alkaloid bases with organic solvents, such as 1,2-dichloroethane, chloroform, diethyl ether or benzene. Then, the impurities are dissolved by weak acids; this converts alkaloid bases into salts that are washed away with water. If necessary, an aqueous solution of alkaloid salts is again made alkaline and treated with an organic solvent. The process is repeated until the desired purity is achieved.
+
+In the acidic extraction, the raw plant material is processed by a weak acidic solution (e.g., acetic acid in water, ethanol, or methanol). A base is then added to convert alkaloids to basic forms that are extracted with organic solvent (if the extraction was performed with alcohol, it is removed first, and the remainder is dissolved in water). The solution is purified as described above.[175][178]
+
+Alkaloids are separated from their mixture using their different solubility in certain solvents and different reactivity with certain reagents or by distillation.[179]
+
+Biosynthesis[edit]
+Biological precursors of most alkaloids are amino acids, such as ornithine, lysine, phenylalanine, tyrosine, tryptophan, histidine, aspartic acid, and anthranilic acid.[180] Nicotinic acid can be synthesized from tryptophan or aspartic acid. Ways of alkaloid biosynthesis are too numerous and cannot be easily classified.[82] However, there are a few typical reactions involved in the biosynthesis of various classes of alkaloids, including synthesis of Schiff bases and Mannich reaction.[180]
+
+Synthesis of Schiff bases[edit]
+Main article: Schiff base
+Schiff bases can be obtained by reacting amines with ketones or aldehydes.[181] These reactions are a common method of producing C=N bonds.[182]
+
+Schiff base formation.svg
+In the biosynthesis of alkaloids, such reactions may take place within a molecule,[180] such as in the synthesis of piperidine:[38]
+
+Schiff base formation intramolecular.svg
+Mannich reaction[edit]
+Main article: Mannich reaction
+An integral component of the Mannich reaction, in addition to an amine and a carbonyl compound, is a carbanion, which plays the role of the nucleophile in the nucleophilic addition to the ion formed by the reaction of the amine and the carbonyl.[182]
+
+Mannich.png
+The Mannich reaction can proceed both intermolecularly and intramolecularly:[183][184]
+
+Mannich reaction intramolecular.svg
+Dimer alkaloids[edit]
+In addition to the described above monomeric alkaloids, there are also dimeric, and even trimeric and tetrameric alkaloids formed upon condensation of two, three, and four monomeric alkaloids. Dimeric alkaloids are usually formed from monomers of the same type through the following mechanisms:[185]
+
+Mannich reaction, resulting in, e.g., voacamine
+Michael reaction (villalstonine)
+Condensation of aldehydes with amines (toxiferine)
+Oxidative addition of phenols (dauricine, tubocurarine)
+Lactonization (carpaine).
+
+Voacamine
+ 
+
+Villalstonine
+ 
+
+Toxiferine
+ 
+
+Dauricine
+ 
+
+Tubocurarine
+ 
+
+Carpaine
+There are also dimeric alkaloids formed from two distinct monomers, such as the vinca alkaloids vinblastine and vincristine,[24][132] which are formed from the coupling of catharanthine and vindoline.[186][187] The newer semi-synthetic chemotherapeutic agent vinorelbine is used in the treatment of non-small-cell lung cancer.[132][188] It is another derivative dimer of vindoline and catharanthine and is synthesised from anhydrovinblastine,[189] starting either from leurosine[190][191] or the monomers themselves.[132][187]
+
+Vinorelbine from leurosine and from catharanthine plus vindoline.jpg
+Biological role[edit]
+The role of alkaloids for living organisms that produce them is still unclear.[192] It was initially assumed that the alkaloids are the final products of nitrogen metabolism in plants, as urea in mammals. It was later shown that alkaloid concentrations varies over time, and this hypothesis was refuted.[14]
+
+Most of the known functions of alkaloids are related to protection. For example, aporphine alkaloid liriodenine produced by the tulip tree protects it from parasitic mushrooms. In addition, the presence of alkaloids in the plant prevents insects and chordate animals from eating it. However, some animals are adapted to alkaloids and even use them in their own metabolism.[193] Such alkaloid-related substances as serotonin, dopamine and histamine are important neurotransmitters in animals. Alkaloids are also known to regulate plant growth.[194] One example of an organism that uses alkaloids for protection is the Utetheisa ornatrix, more commonly known as the ornate moth. Pyrrolizidine alkaloids render these larvae and adult moths unpalatable to many of their natural enemies like coccinelid beetles, green lacewings, insectivorous hemiptera and insectivorous bats.[195] Another example of alkaloids being utilized occurs in the poison hemlock moth (Agonopterix alstroemeriana). This moth feeds on its highly toxic and alkaloid-rich host plant poison hemlock (Conium maculatum) during its larval stage. A. asltroemeriana may benefit twofold from the toxicity of the naturally-occurring alkaloids, both through the unpalatability of the species to predators and through the ability of A. alstroemeriana to recognize Conium maculatum as the correct location for oviposition.[196]
+
+Applications[edit]
+In medicine[edit]
+Medical use of alkaloid-containing plants has a long history, and, thus, when the first alkaloids were isolated in the 19th century, they immediately found application in clinical practice.[197] Many alkaloids are still used in medicine, usually in the form of salts, including the following:[14][198]
+
+Alkaloid	Action
+Ajmaline	antiarrhythmic
+Atropine, scopolamine, hyoscyamine	anticholinergic
+Caffeine	stimulant, adenosine receptor antagonist
+Codeine	antitussive, analgesic
+Colchicine	remedy for gout
+Emetine	antiprotozoal agent
+Ergot alkaloids	Vasoconstriction, hallucinogenic, Uterotonic
+Morphine	analgesic
+Nicotine	stimulant, nicotinic acetylcholine receptor agonist
+Physostigmine	inhibitor of acetylcholinesterase
+Quinidine	antiarrhythmic
+Quinine	antipyretic, antimalarial
+Reserpine	antihypertensive
+Tubocurarine	muscle relaxant
+Vinblastine, vincristine	antitumor
+Vincamine	vasodilating, antihypertensive
+Yohimbine	stimulant, aphrodisiac
+Many synthetic and semisynthetic drugs are structural modifications of the alkaloids, which were designed to enhance or change the primary effect of the drug and reduce unwanted side-effects.[199] For example, naloxone, an opioid receptor antagonist, is a derivative of thebaine that is present in opium.[200]
+
+
+Thebaine
+ 
+
+Naloxone
+In agriculture[edit]
+Prior to the development of a wide range of relatively low-toxic synthetic pesticides, some alkaloids, such as salts of nicotine and anabasine, were used as insecticides. Their use was limited by their high toxicity to humans.[201]
+
+Use as psychoactive drugs[edit]
+Preparations of plants containing alkaloids and their extracts, and later pure alkaloids, have long been used as psychoactive substances. Cocaine, caffeine, and cathinone are stimulants of the central nervous system.[202][203] Mescaline and many of indole alkaloids (such as psilocybin, dimethyltryptamine and ibogaine) have hallucinogenic effect.[204][205] Morphine and codeine are strong narcotic pain killers.[206]
+
+There are alkaloids that do not have strong psychoactive effect themselves, but are precursors for semi-synthetic psychoactive drugs. For example, ephedrine and pseudoephedrine are used to produce methcathinone and methamphetamine.[207] Thebaine is used in the synthesis of many painkillers such as oxycodone.
+
+See also[edit]
+Amine
+Base (chemistry)
+List of poisonous plants
+Natural products
+Palau'amine
+Secondary metabolite
+Mayer's reagent
+Notes[edit]
+Jump up ^ In the penultimate sentence of his article – W. Meissner (1819) "Über Pflanzenalkalien: II. Über ein neues Pflanzenalkali (Alkaloid)" (On plant alkalis: II. On a new plant alkali (alkaloid)), Journal für Chemie und Physik, 25 : 379–381 ; available on-line at: Hathi Trust – Meissner wrote: "Überhaupt scheint es mir auch angemessen, die bis jetzt bekannten Pflanzenstoffe nicht mit dem Namen Alkalien, sondern Alkaloide zu belegen, da sie doch in manchen Eigenschaften von den Alkalien sehr abweichen, sie würden daher in dem Abschnitt der Pflanzenchemie vor den Pflanzensäuren ihre Stelle finden." (In general, it seems appropriate to me to impose on the currently known plant substances not the name "alkalis" but "alkaloids", since they differ greatly in some properties from the alkalis; among the chapters of plant chemistry, they would therefore find their place before plant acids [since "Alkaloid" would precede "Säure" (acid)].)
+References[edit]
+Jump up ^ Andreas Luch (2009). Molecular, clinical and environmental toxicology. Springer. p. 20. ISBN 3-7643-8335-6.
+^ Jump up to: a b IUPAC. Compendium of Chemical Terminology, 2nd ed. (The "Gold Book"). Compiled by A. D. McNaught and A. Wilkinson. Blackwell Scientific Publications, Oxford (1997) ISBN 0-9678550-9-8 doi:10.1351/goldbook
+Jump up ^ R. H. F. Manske. The Alkaloids. Chemistry and Physiology. Volume VIII. – New York: Academic Press, 1965, p. 673
+Jump up ^ Robert Alan Lewis. Lewis' dictionary of toxicology. CRC Press, 1998, p. 51 ISBN 1-56670-223-2
+^ Jump up to: a b c d Chemical Encyclopedia: alkaloids. xumuk.ru
+Jump up ^ Kittakoop P, Mahidol C, Ruchirawat S (2014). "Alkaloids as important scaffolds in therapeutic drugs for the treatments of cancer, tuberculosis, and smoking cessation". Curr Top Med Chem. 14 (2): 239–252. doi:10.2174/1568026613666131216105049. PMID 24359196.
+Jump up ^ Russo P, Frustaci A, Del Bufalo A, Fini M, Cesario A (2013). "Multitarget drugs of plants origin acting on Alzheimer's disease". Curr Med Chem. 20 (13): 1686–93. doi:10.2174/0929867311320130008. PMID 23410167.
+Jump up ^ Raymond S. Sinatra; Jonathan S. Jahr; J. Michael Watkins-Pitchford (2010). The Essence of Analgesia and Analgesics. Cambridge University Press. pp. 82–90. ISBN 1139491989.
+Jump up ^ Cushnie TP, Cushnie B, Lamb AJ (2014). "Alkaloids: An overview of their antibacterial, antibiotic-enhancing and antivirulence activities". Int J Antimicrob Agents. 44 (5): 377–386. doi:10.1016/j.ijantimicag.2014.06.001. PMID 25130096.
+Jump up ^ Qiu S, Sun H, Zhang AH, Xu HY, Yan GL, Han Y, Wang XJ (2014). "Natural alkaloids: basic aspects, biological roles, and future perspectives". Chin J Nat Med. 12 (6): 401–406. doi:10.1016/S1875-5364(14)60063-7. PMID 24969519.
+Jump up ^ "Alkaloid".
+Jump up ^ Robbers JE, Speedie MK, Tyler VE (1996). "Chapter 9: Alkaloids". Pharmacognosy and Pharmacobiotechnology. Philadelphia: Lippincott, Williams & Wilkins. pp. 143–185. ISBN 068308500X.
+Jump up ^ Rhoades, David F (1979). "Evolution of Plant Chemical Defense against Herbivores". In Rosenthal, Gerald A.; Janzen, Daniel H. Herbivores: Their Interaction with Secondary Plant Metabolites. New York: Academic Press. p. 41. ISBN 0-12-597180-X.
+^ Jump up to: a b c Robert A. Meyers Encyclopedia of Physical Science and Technology – Alkaloids, 3rd edition. ISBN 0-12-227411-3
+Jump up ^ Leland J. Cseke Natural Products from Plants Second Edition. – CRC, 2006, p. 30 ISBN 0-8493-2976-0
+Jump up ^ A. William Johnson Invitation to Organic Chemistry, Jones and Bartlett, 1999, p. 433 ISBN 0-7637-0432-6
+Jump up ^ Raj K Bansal A Text Book of Organic Chemistry. 4th Edition, New Age International, 2004, p. 644 ISBN 81-224-1459-1
+^ Jump up to: a b c d Aniszewski, p. 110
+Jump up ^ Hesse, pp. 1–3
+Jump up ^ Oscar Jacobsen, "Alkaloide" in: Ladenburg, Handwörterbuch der Chemie (Breslau, Germany: Eduard Trewendt, 1882), vol. 1, pp. 213–422.
+^ Jump up to: a b Hesse, p. 5
+Jump up ^ The suffix "ine" is a Greek feminine patronymic suffix and means "daughter of"; hence, for example, "atropine" means "daughter of Atropa (belladonna)": Development of Systematic Names for the Simple Alkanes. yale.edu
+Jump up ^ Hesse, p. 7
+^ Jump up to: a b c van der Heijden, Robert; Jacobs, Denise I.; Snoeijer, Wim; Hallard, Didier; Verpoorte, Robert (2004). "The Catharanthus alkaloids: Pharmacognosy and biotechnology". Current Medicinal Chemistry. 11 (5): 607–628. doi:10.2174/0929867043455846. PMID 15032608.
+Jump up ^ Cooper, Raymond; Deakin, Jeffrey John (2016). "Africa's gift to the world". Botanical Miracles: Chemistry of Plants That Changed the World. CRC Press. pp. 46–51. ISBN 9781498704304.
+Jump up ^ Raviña, Enrique (2011). "Vinca alkaloids". The evolution of drug discovery: From traditional medicines to modern drugs. John Wiley & Sons. pp. 157–159. ISBN 9783527326693.
+^ Jump up to: a b Aniszewski, p. 182
+Jump up ^ Hesse, p. 338
+Jump up ^ Hesse, p. 304
+Jump up ^ Hesse, p. 350
+Jump up ^ Hesse, pp. 313–316
+^ Jump up to: a b Кониин. Great Soviet Encyclopedia (1969–1978)
+Jump up ^ Hesse, p. 204
+Jump up ^ Begley, Natural Products in Plants
+^ Jump up to: a b Hesse, p. 11
+Jump up ^ Orekhov, p. 6
+Jump up ^ Aniszewski, p. 109
+^ Jump up to: a b Dewick, p. 307
+Jump up ^ Hesse, p. 12
+^ Jump up to: a b Plemenkov, p. 223
+Jump up ^ Aniszewski, p. 108
+^ Jump up to: a b c d Hesse, p. 84
+^ Jump up to: a b Hesse, p. 31
+^ Jump up to: a b c Dewick, p. 381
+^ Jump up to: a b c d e f g h i Dimitris C. Gournelif; Gregory G. Laskarisb; Robert Verpoorte (1997). "Cyclopeptide alkaloids". Nat. Prod. Rep. 14 (1): 75–82. doi:10.1039/NP9971400075. PMID 9121730.
+Jump up ^ Aniszewski, p. 11
+Jump up ^ Plemenkov, p. 246
+^ Jump up to: a b Aniszewski, p. 12
+^ Jump up to: a b Dewick, p. 382
+Jump up ^ Hesse, pp. 44, 53
+^ Jump up to: a b c Plemenkov, p. 224
+^ Jump up to: a b c Aniszewski, p. 75
+Jump up ^ Orekhov, p. 33
+^ Jump up to: a b c Chemical Encyclopedia: Tropan alkaloids. xumuk.ru
+Jump up ^ Hesse, p. 34
+Jump up ^ Aniszewski, p. 27
+^ Jump up to: a b c d Chemical Encyclopedia: Pyrrolizidine alkaloids. xumuk.ru
+Jump up ^ Plemenkov, p. 229
+Jump up ^ Blankenship JD, Houseknecht JB, Pal S, Bush LP, Grossman RB, Schardl CL (2005). "Biosynthetic precursors of fungal pyrrolizidines, the loline alkaloids". Chembiochem. 6 (6): 1016–1022. doi:10.1002/cbic.200400327. PMID 15861432.
+Jump up ^ Faulkner JR, Hussaini SR, Blankenship JD, Pal S, Branan BM, Grossman RB, Schardl CL (2006). "On the sequence of bond formation in loline alkaloid biosynthesis". Chembiochem. 7 (7): 1078–1088. doi:10.1002/cbic.200600066. PMID 16755627.
+Jump up ^ Schardl CL, Grossman RB, Nagabhyru P, Faulkner JR, Mallik UP (2007). "Loline alkaloids: currencies of mutualism". Phytochemistry. 68 (7): 980–996. doi:10.1016/j.phytochem.2007.01.010. PMID 17346759.
+Jump up ^ Plemenkov, p. 225
+Jump up ^ Aniszewski, p. 95
+Jump up ^ Orekhov, p. 80
+^ Jump up to: a b c d e f Chemical Encyclopedia: Quinolizidine alkaloids. xumuk.ru
+Jump up ^ Saxton, Vol. 1, p. 93
+Jump up ^ Aniszewski, p. 98
+Jump up ^ Saxton, Vol. 1, p. 91
+Jump up ^ Joseph P. Michael (2002). "Indolizidine and quinolizidine alkaloids". Nat. Prod. Rep. 19 (5): 458–475. doi:10.1039/b208137g.
+Jump up ^ Saxton, Vol. 1, p. 92
+Jump up ^ Dewick, p. 310
+Jump up ^ Aniszewski, p. 96
+Jump up ^ Aniszewski, p. 97
+^ Jump up to: a b c Plemenkov, p. 227
+^ Jump up to: a b Chemical Encyclopedia: pyridine alkaloids. xumuk.ru
+^ Jump up to: a b Aniszewski, p. 107
+^ Jump up to: a b Aniszewski, p. 85
+Jump up ^ Plemenkov, p. 228
+^ Jump up to: a b Hesse, p. 36
+^ Jump up to: a b c d e f g h i j k l m n o p q r s t Chemical Encyclopedia: isoquinoline alkaloids. xumuk.ru
+Jump up ^ Aniszewski, pp. 77–78
+^ Jump up to: a b c d Begley, Alkaloid Biosynthesis
+^ Jump up to: a b Saxton, Vol. 3, p. 122
+^ Jump up to: a b c Hesse, p. 54
+^ Jump up to: a b Hesse, p. 37
+Jump up ^ Hesse, p. 38
+^ Jump up to: a b c Hesse, p. 46
+^ Jump up to: a b c Hesse, p. 50
+^ Jump up to: a b c Kenneth W. Bentley (1997). "β-Phenylethylamines and the isoquinoline alkaloids" (PDF). Nat. Prod. Rep. 14 (4): 387–411. doi:10.1039/NP9971400387. PMID 9281839.
+^ Jump up to: a b Hesse, p. 47
+Jump up ^ Hesse, p. 39
+^ Jump up to: a b Hesse, p. 41
+^ Jump up to: a b Hesse, p. 49
+Jump up ^ Hesse, p. 44
+^ Jump up to: a b c Saxton, Vol. 3, p. 164
+^ Jump up to: a b Hesse, p. 51
+^ Jump up to: a b c Plemenkov, p. 236
+Jump up ^ Saxton, Vol. 3, p. 163
+Jump up ^ Saxton, Vol. 3, p. 168
+Jump up ^ Hesse, p. 52
+Jump up ^ Hesse, p. 53
+^ Jump up to: a b c d e Plemenkov, p. 241
+Jump up ^ Brossi, Vol. 35, p. 261
+Jump up ^ Brossi, Vol. 35, pp. 260–263
+^ Jump up to: a b Plemenkov, p. 242
+Jump up ^ Begley, Cofactor Biosynthesis
+Jump up ^ John R. Lewis (2000). "Amaryllidaceae, muscarine, imidazole, oxazole, thiazole and peptide alkaloids, and other miscellaneous alkaloids". Nat. Prod. Rep. 17 (1): 57–84. doi:10.1039/a809403i. PMID 10714899.
+Jump up ^ Chemical Encyclopedia: Quinazoline alkaloids. xumuk.ru
+Jump up ^ Aniszewski, p. 106
+^ Jump up to: a b Aniszewski, p. 105
+Jump up ^ Richard B. Herbert; Herbert, Richard B.; Herbert, Richard B. (1999). "The biosynthesis of plant alkaloids and nitrogenous microbial metabolites". Nat. Prod. Rep. 16 (2): 199–208. doi:10.1039/a705734b.
+Jump up ^ Plemenkov, pp. 231, 246
+Jump up ^ Hesse, p. 58
+Jump up ^ Plemenkov, p. 231
+^ Jump up to: a b c d Chemical Encyclopedia: Quinoline alkaloids. xumuk.ru
+^ Jump up to: a b Aniszewski, p. 114
+Jump up ^ Orekhov, p. 205
+Jump up ^ Hesse, p. 55
+^ Jump up to: a b Plemenkov, p. 232
+Jump up ^ Orekhov, p. 212
+Jump up ^ Aniszewski, p. 118
+^ Jump up to: a b Aniszewski, p. 112
+^ Jump up to: a b c d e f Aniszewski, p. 113
+Jump up ^ Hesse, p. 15
+Jump up ^ Saxton, Vol. 1, p. 467
+Jump up ^ Dewick, pp. 349–350
+^ Jump up to: a b c Aniszewski, p. 119
+Jump up ^ Hesse, p. 29
+Jump up ^ Hesse, pp. 23–26
+Jump up ^ Saxton, Vol. 1, p. 169
+Jump up ^ Saxton, Vol. 5, p. 210
+^ Jump up to: a b c d Keglevich, Péter; Hazai, Laszlo; Kalaus, György; Szántay, Csaba (2012). "Modifications on the basic skeletons of vinblastine and vincristine". Molecules. 17: 5893–5914. doi:10.3390/molecules17055893. PMID 22609781.
+Jump up ^ Hesse, pp. 17–18
+Jump up ^ Dewick, p. 357
+^ Jump up to: a b Aniszewski, p. 104
+Jump up ^ Hesse, p. 72
+Jump up ^ Hesse, p. 73
+Jump up ^ Dewick, p. 396
+Jump up ^ PlantCyc Pathway: ephedrine biosynthesis Archived December 10, 2011, at the Wayback Machine.
+Jump up ^ Hesse, p. 76
+^ Jump up to: a b Chemical Encyclopedia: colchicine alkaloids. xumuk.ru
+Jump up ^ Aniszewski, p. 77
+^ Jump up to: a b Hesse, p. 81
+Jump up ^ Brossi, Vol. 23, p. 376
+^ Jump up to: a b Hesse, p. 77
+Jump up ^ Brossi, Vol. 23, p. 268
+Jump up ^ Brossi, Vol. 23, p. 231
+^ Jump up to: a b c d e f Hesse, p. 82
+Jump up ^ Spermine Biosynthesis
+^ Jump up to: a b c d e f Plemenkov, p. 243
+Jump up ^ Chemical Encyclopedia: Terpenes. xumuk.ru
+Jump up ^ Begley, Natural Products: An Overview
+Jump up ^ Atta-ur-Rahman and M. Iqbal Choudhary (1997). "Diterpenoid and steroidal alkaloids". Nat. Prod. Rep. 14 (2): 191–203. doi:10.1039/np9971400191. PMID 9149410.
+Jump up ^ Hesse, p. 88
+Jump up ^ Dewick, p. 388
+Jump up ^ Plemenkov, p. 247
+Jump up ^ Никотин. Great Soviet Encyclopedia (1969–1978)
+^ Jump up to: a b c Grinkevich, p. 131
+Jump up ^ G. A. Spiller Caffeine, CRC Press, 1997 ISBN 0-8493-2647-8
+Jump up ^ "Caffeine". DrugBank. Retrieved 12 February 2013.
+Jump up ^ "Cocaine". DrugBank. Retrieved 12 February 2013.
+Jump up ^ "Codeine". DrugBank. Retrieved 12 February 2013.
+Jump up ^ "Nicotine". DrugBank. Retrieved 12 February 2013.
+Jump up ^ "Morphine". DrugBank. Retrieved 12 February 2013.
+Jump up ^ "Yohimbine". DrugBank. Archived from the original on 30 January 2013. Retrieved 12 February 2013.
+Jump up ^ Fattorusso, p. 53
+Jump up ^ Thomas Acamovic; Colin S. Stewart; T. W. Pennycott (2004). Poisonous plants and related toxins, Volume 2001. CABI. p. 362. ISBN 0-85199-614-0.
+Jump up ^ Aniszewski, p. 13
+Jump up ^ Orekhov, p. 11
+Jump up ^ Hesse, p.4
+Jump up ^ Grinkevich, pp. 122–123
+Jump up ^ Orekhov, p. 12
+Jump up ^ Fattorusso, p. XVII
+Jump up ^ Aniszewski, pp. 110–111
+^ Jump up to: a b c d Hesse, p. 116
+^ Jump up to: a b Grinkevich, p. 132
+Jump up ^ Grinkevich, p. 5
+Jump up ^ Grinkevich, pp. 132–134
+Jump up ^ Grinkevich, pp. 134–136
+^ Jump up to: a b c Plemenkov, p. 253
+Jump up ^ Plemenkov, p. 254
+^ Jump up to: a b Dewick, p. 19
+Jump up ^ Plemenkov, p. 255
+Jump up ^ Dewick, p. 305
+Jump up ^ Hesse, pp. 91–105
+Jump up ^ Hirata, K.; Miyamoto, K.; Miura, Y. (1994). "Catharanthus roseus L. (Periwinkle): Production of Vindoline and Catharanthine in Multiple Shoot Cultures". In Bajaj, Y. P. S. Biotechnology in Agriculture and Forestry 26. Medicinal and Aromatic Plants. VI. Springer-Verlag. pp. 46–55. ISBN 9783540563914.
+^ Jump up to: a b Gansäuer, Andreas; Justicia, José; Fan, Chun-An; Worgull, Dennis; Piestert, Frederik (2007). "Reductive C—C bond formation after epoxide opening via electron transfer". In Krische, Michael J. Metal Catalyzed Reductive C—C Bond Formation: A Departure from Preformed Organometallic Reagents. Topics in Current Chemistry. 279. Springer Science & Business Media. pp. 25–52. doi:10.1007/128_2007_130. ISBN 9783540728795.
+Jump up ^ Faller, Bryan A.; Pandi, Trailokya N. (2011). "Safety and efficacy of vinorelbine in the treatment of non-small cell lung cancer". Clinical Medicine Insights: Oncology. 5: 131–144. doi:10.4137/CMO.S5074. PMC 3117629 Freely accessible. PMID 21695100.
+Jump up ^ Ngo, Quoc Anh; Roussi, Fanny; Cormier, Anthony; Thoret, Sylviane; Knossow, Marcel; Guénard, Daniel; Guéritte, Françoise (2009). "Synthesis and biological evaluation of Vinca alkaloids and phomopsin hybrids". Journal of Medicinal Chemistry. 52 (1): 134–142. doi:10.1021/jm801064y. PMID 19072542.
+Jump up ^ Hardouin, Christophe; Doris, Eric; Rousseau, Bernard; Mioskowski, Charles (2002). "Concise synthesis of anhydrovinblastine from leurosine". Organic Letters. 4 (7): 1151–1153. doi:10.1021/ol025560c.
+Jump up ^ Morcillo, Sara P.; Miguel, Delia; Campaña, Araceli G.; Cienfuegos, Luis Álvarez de; Justicia, José; Cuerva, Juan M. (2014). "Recent applications of Cp2TiCl in natural product synthesis". Organic Chemistry Frontiers. 1 (1): 15–33. doi:10.1039/c3qo00024a.
+Jump up ^ Aniszewski, p. 142
+Jump up ^ Hesse, pp. 283–291
+Jump up ^ Aniszewski, pp. 142–143
+Jump up ^ W.E. Conner (2009). Tiger Moths and Woolly Bears—behaviour, ecology, and evolution of the Arctiidae. New York: Oxford University Press. pp. 1–10. ISBN 0195327373.
+Jump up ^ Castells, Eva; Berenbaum, May R. (June 2006). "Laboratory Rearing of Agonopterix alstroemeriana, the Defoliating Poison Hemlock (Conium maculatum L.) Moth, and Effects of Piperidine Alkaloids on Preference and Performance". Environmental Entomology. Entomological Society of America. 35: 607–615. doi:10.1603/0046-225x-35.3.607 – via ResearchGate.
+Jump up ^ Hesse, p. 303
+Jump up ^ Hesse, pp. 303–309
+Jump up ^ Hesse, p. 309
+Jump up ^ Dewick, p. 335
+Jump up ^ György Matolcsy, Miklós Nádasy, Viktor Andriska Pesticide chemistry, Elsevier, 2002, pp. 21–22 ISBN 0-444-98903-X
+Jump up ^ Veselovskaya, p. 75
+Jump up ^ Hesse, p. 79
+Jump up ^ Veselovskaya, p. 136
+Jump up ^ Geoffrey A. Cordell The Alkaloids: Chemistry and Biology. Vol. 56, Elsevier, 2001, p. 8, ISBN 978-0-12-469556-6.
+Jump up ^ Veselovskaya, p. 6
+Jump up ^ Veselovskaya, pp. 51–52
+Bibliography[edit]
+	Wikimedia Commons has media related to Alkaloid.
+	Wikiquote has quotations related to: Alkaloid
+Aniszewski, Tadeusz (2007). Alkaloids – secrets of life. Amsterdam: Elsevier. ISBN 978-0-444-52736-3.
+Begley, Tadhg P. (2009). Encyclopedia of Chemical Biology. Wiley. doi:10.1002/cbic.200900262. ISBN 978-0-471-75477-0.
+Brossi, Arnold (1989). The Alkaloids: Chemistry and Pharmacology. Academic Press.
+Dewick, Paul M (2002). Medicinal Natural Products. A Biosynthetic Approach. Second Edition. Wiley. ISBN 0-471-49640-5.
+Fattorusso, E.; Taglialatela-Scafati, O. (2008). Modern Alkaloids: Structure, Isolation, Synthesis and Biology. Wiley-VCH. ISBN 978-3-527-31521-5.
+Grinkevich NI Safronich LN (1983). The chemical analysis of medicinal plants: Proc. allowance for pharmaceutical universities. M.
+Hesse, Manfred (2002). Alkaloids: Nature's Curse or Blessing?. Wiley-VCH. ISBN 978-3-906390-24-6.
+Knunyants, IL (1988). Chemical Encyclopedia. Soviet Encyclopedia.
+Orekhov, AP (1955). Chemistry alkaloids (Acad. 2 ed.). M.: USSR.
+Plemenkov, VV (2001). Introduction to the Chemistry of Natural Compounds. Kazan.
+Saxton, J. E. (1971). The Alkaloids. A Specialist Periodical Report. London: The Chemical Society.
+Veselovskaya, N. B.; Kovalenko, A.E (2000). Drugs. Moscow: Triada-X.
+Wink, M (2009). "Mode of action and toxicology of plant toxins and poisonous plants". Mitt. Julius Kühn-Inst. 421: 93–112. Retrieved 18 March 2014.
+[show] v t e
+Secondary metabolites
+[show] v t e
+Alkaloid groups
+Authority control	
+NDL: 00560348
+Categories: Alkaloids
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+
+Search Wikipedia
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikiquote
+
+Languages
+Беларуская
+Deutsch
+Ελληνικά
+हिन्दी
+Lietuvių
+Polski
+Русский
+Українська
+中文
+64 more
+Edit links
+This page was last edited on 3 March 2018, at 18:44.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewEnable previews
+Wikimedia Foundation Powered by MediaWiki
+

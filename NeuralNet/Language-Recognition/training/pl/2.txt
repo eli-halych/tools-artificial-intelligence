@@ -1,0 +1,161 @@
+ Reaktor jądrowy[edytuj]
+
+Rdzeń reaktora jądrowego
+
+WWER-1000
+
+Reaktor badawczy PULSAR, o mocy 1MW
+Reaktor jądrowy – urządzenie, w którym przeprowadza się z kontrolowaną szybkością reakcje jądrowe; na obecnym etapie rozwoju nauki i techniki są to przede wszystkim reakcje rozszczepienia jąder atomowych. Reakcje te mają charakter łańcuchowy – produkty reakcji (w tym głównie neutrony) mogą zainicjować kilka następnych. Aby uniknąć lawinowego wzrostu szybkości reakcji, reaktor dzieli się na strefy wypełnione na przemian paliwem, chłodziwem oraz moderatorem, czyli substancją spowalniającą neutrony. Szybkość reakcji kontrolowana jest m.in. przez zmianę wzajemnego położenia lub proporcji tych składników, a także przez wprowadzanie dodatkowych substancji pochłaniających lub spowalniających neutrony, zawartych w tzw. prętach regulacyjnych (służących do normalnej regulacji parametrów reakcji) oraz prętach bezpieczeństwa (stosowanych do awaryjnego wyłączania reaktora). Substancjami używanymi do pochłaniania neutronów termicznych są m.in. bor i kadm, natomiast jako moderatorów używa się m.in. berylu, grafitu, a także wody, pełniącej równocześnie funkcję chłodziwa.
+
+Spis treści  [ukryj] 
+1	Urządzenia wykorzystujące energię jądrową
+2	Podział reaktorów rozszczepiających jądra atomowe
+2.1	Podział według chłodziwa
+2.2	Podział według generacji
+2.3	Podział według przeznaczenia
+3	Budowa reaktora
+3.1	Sterowanie reaktorem
+3.1.1	Cykl życia neutronu
+3.2	Odprowadzanie wytworzonej energii
+4	Paliwo
+4.1	Przyszłość
+5	Aktywność reaktora
+5.1	Aktywność chłodziwa
+5.2	Aktywność paliwa
+6	Historia
+7	Statystyka
+8	Przypisy
+9	Dodatkowe źródła
+10	Zobacz też
+Urządzenia wykorzystujące energię jądrową[edytuj | edytuj kod]
+Ze względu na przeprowadzaną reakcję przemiany jądrowej urządzenia do wytwarzania energii w kontrolowanej ilości dzieli się na:
+
+Rozszczepienie jądra atomowego – większość reaktorów, w tym wszystkie komercyjne, oparta jest na zjawisku rozszczepienia jądra atomowego. Najczęściej jako paliwo używany jest uran, ale trwają badania nad wykorzystaniem toru (na przykład w reaktorach solnych). W tym artykule w większości fragmentów zakłada się, że mowa o wykorzystaniu rozszczepienia jądra atomowego, chyba że jest napisane inaczej.
+Kontrolowana synteza termojądrowa – wykorzystanie kontrolowanej syntezy jądrowej (najczęściej z wodorem jako paliwem) jest w fazie eksperymentalnej. Jak dotąd nie udało się przeprowadzić kontrolowanej syntezy z dodatnim bilansem energetycznym. Jednakże fuzory Farnswortha–Hirscha są używane do wytwarzania promieniowania neutronowego.
+Rozpad promieniotwórczy – na przykład radioizotopowe generatory termoelektryczne oraz baterie jądrowe
+Podział reaktorów rozszczepiających jądra atomowe[edytuj | edytuj kod]
+Podział według chłodziwa[edytuj | edytuj kod]
+reaktory wodne, ciśnieniowe (tzw. PWR i WWER), w których chłodziwem i moderatorem jest zwykła woda pod ciśnieniem (na tyle wysokim by woda nie zaczęła wrzeć podczas normalnej pracy reaktora).
+reaktory wodne, wrzące (BWR), w których chłodziwem i moderatorem jest również zwykła woda, ale wrząca,
+wyjątkowymi reaktorami wodnymi, wrzącymi są reaktory kanałowe wielkiej mocy (RBMK) (tego typu reaktory były między innymi w Czarnobylu oraz w innych elektrowniach na terenie byłego ZSRR), chłodzone są wodą wrzącą w kanałach paliwowych, a moderowane grafitem.
+reaktory wodne, basenowe, gdzie pręty paliwowe zanurzone są w basenie ze zwykłą wodą, która jest chłodziwem i moderatorem. Warstwa wody nad rdzeniem ma wystarczającą grubość, by ekranować promieniowanie umożliwiając personelowi reaktora bezpieczną pracę ponad basenem.
+reaktory ciężkowodne (PHWR np. Reaktor jądrowy ciężkowodny (CANDU) ), chłodziwem i moderatorem jest ciężka woda,
+reaktory gazowe (GCR, AGR, HTGR), w których chłodziwem jest gaz (dwutlenek węgla lub hel), a moderatorem grafit,
+reaktory prędkie (LMFR na szybkich neutronach), pozbawione moderatora, chłodziwem są najczęściej stopione metale: sód, rzadziej ołów,
+reaktory solne (MSR), gdzie chłodziwem są stopione sole, najczęściej fluoru.
+Podstawowe typy reaktorów energetycznych
+
+Grupa	Typ reaktora	Chłodziwo	rodzaj	Moderator	Paliwo jądrowe
+Grafitowo-gazowe GCR	AGR	CO2, gaz	-	grafit	UO2 wzbogacony
+Magnox	gaz, CO2	-	U Naturalny
+HTR	Hel	-	UO2, UC2, ThO2, ... (235U, 233U, Pu)
+Ciężkowodne	PHWR	ciężka woda	ciśnieniowy	ciężka woda	UO2 naturalny lub wzbogacony
+BHWR	wrzący
+Lekkowodne LWR	BWR	lekka woda	wrzący	lekka woda	UO2 wzbogacony lub UO2 wzbogacony i MOX
+PWR	ciśnieniowy
+WWER	ciśnieniowy
+Wodno-grafitowe	RBMK	lekka woda	wrzący	grafit	UO2 wzbogacony
+GLWR	ciśnieniowy	U naturalny lub wzbogacony
+Lekko-ciężkowodne	HWLWR	lekka woda	wrzący	ciężka woda	UO2 wzbogacony – PuO2
+Prędkie	FBR	sód	-	-	UO2 wzbogacony – PuO2
+AGR – Advanced Gas-cooled Reactor
+BHWR – Boiling Heavy Water Reactor
+BWR – Boiling Water Reactor (ABWR – Advanced Boiling Water Reactor)* PHWR – Pressurized Heavy Water Reactor
+PWR – Pressurized Water Reactor – reaktor wodny ciśnieniowy
+MKER - Mnogopetleje Kanalinje Energeticzeskie Reaktori (lekkowodny, wrzący reaktor atomowy z moderatorem grafitowym)
+RBMK – Reaktor Bolszoj Moszcznosti Kanalnyj
+WWER – Wodno Wodianoj Energeticzeskij Reaktor
+FBR – Fast Breeder Reactor
+GCR – Gas Cooled Reactor – reaktor chłodzony gazem
+GLWR – Graphite Light Water Reactor
+HTR – High Temperature (Gas-cooled) Reactor
+HWLWR – Heavy Water – Light Water Reactor
+LWR – Light Water Reactor
+Magnox – nazwa pochodzi od stopu magnezowego koszulek paliwowych
+VHTR – Very High Temperature Reactor
+Podział według generacji[edytuj | edytuj kod]
+Pierwszej generacji – prototypowe, doświadczalne,
+drugiej generacji – pierwsze, współczesne,
+trzeciej generacji – ulepszone reaktory II generacji (wytwarzają więcej energii z takiej samej ilości paliwa, mniej odpadów radioaktywnych),
+czwartej generacji – najnowsze, w fazie projektów, gdzie kładziony jest nacisk na zmniejszenie oddziaływania na środowisko, zwiększenie bezpieczeństwa i niezawodności, a także ograniczenie możliwości wykorzystania materiałów i urządzeń do produkcji broni jądrowej.
+Podział według przeznaczenia[edytuj | edytuj kod]
+energetyczne
+napędowe (głównie okrętów podwodnych i innych dużych okrętów)
+militarne (wytwarzające materiał rozszczepialny do broni jądrowej)
+badawcze
+Podział ten nie jest ostry, gdyż np. ten sam reaktor może służyć zarówno celom militarnym jak i energetycznym. Z kolei reaktory badawcze często wykorzystywane są do wytwarzania radioizotopów o zastosowaniach komercyjnych.
+
+Budowa reaktora[edytuj | edytuj kod]
+Typowy reaktor jądrowy zbudowany jest z rdzenia, reflektora neutronów oraz osłon biologicznych. Sam rdzeń zawiera pręty paliwowe, pręty regulacyjne (pochłaniają nadmiar neutronów), pręty bezpieczeństwa, moderator (zmniejsza energię neutronów), kanały chłodzenia i kanały badawcze.
+
+Sterowanie reaktorem[edytuj | edytuj kod]
+Moc reaktora jest regulowana poprzez kontrolowanie liczby neutronów, które są w stanie wywołać kolejne rozszczepienia. Zmiany mocy reaktora określa parametr pracy reaktora zwany reaktywnością reaktora.
+
+Kontrola mocy reaktora jest realizowana poprzez pręty kontrolne, które są wykonane z substancji pochłaniających neutrony. Absorpcja większej ilości neutronów w prętach kontrolnych oznacza, że w reaktorze jest mniej neutronów, które mogą wywołać następne rozszczepienia. Opuszczając pręty zmniejsza się moc reaktora, a podnosząc zwiększa.
+
+W wyniku reakcji rozszczepienia wydzielane są neutrony, które są podstawą reakcji łańcuchowej. Większość neutronów emitowana jest natychmiast (neutrony natychmiastowe) po rozszczepieniu, ale około 0,65% neutronów emitowana jest z opóźnieniem. Neutrony wyemitowane z opóźnieniem są nazywane opóźnionymi ich emisja ma charakter sumy zaników naturalnych z czasem połowicznego zaniku od milisekund aż do kilka minut. Istnienie neutronów opóźnionych daje czas urządzeniu mechanicznemu lub operatorowi na reagowanie na zmiany liczby neutronów w reaktorze, gdyby nie to zjawisko czas między osiągnięciem stanu krytycznego a katastrofą nuklearną byłby zbyt krótki, aby umożliwić interwencję.
+
+Na reaktywność reaktora wpływają także zjawiska związane ze spowalnianiem neutronów, pochłanianiem neutronów przez chłodziwo.
+
+Cykl życia neutronu[edytuj | edytuj kod]
+Z uwagi na istotną rolę neutronów w pracy reaktora jądrowego, w teorii sterowania reaktorem wyróżnia się cykl życia neutronu jako jeden z elementów opisujących działanie reaktora. Cykl opisuje "historię życia" neutronów, od chwili ich powstania do wychwytu (pochłonięcia przez jądro) albo ucieczki z rdzenia[1]. Cykl życia neutronu opisywany jest różnymi formułami[2].
+
+Odprowadzanie wytworzonej energii[edytuj | edytuj kod]
+Reakcje rozszczepienia jąder atomowych w paliwie w rdzeniu reaktora jądrowego wydzielają duże ilości ciepła. Odprowadza je się za pomocą czynnika chłodzącego - chłodziwa, które ma przeważnie postać cieczy (woda, ciekły gaz, ciekły metal).[3]
+
+W reaktorach badawczych ciepło zazwyczaj odprowadzane jest bezpośrednio do chłodni wentylatorowych. Natomiast w zdecydowanej większości elektrowni jądrowych, energia cieplna pochodząca z reakcji jądrowych jest odbierana przez wodę, która w zależności od reaktora: odparowuje (reaktory wrzące BWR) lub nie (jeśli jest pod wysokim ciśnieniem – reaktory ciśnieniowe PWR i WWER). Przekazanie ciepła w elektrowni jądrowej następuje w wytwornicy pary, która dzieli cały układ na obieg pierwotny i wtórny. Wytworzona w wytwornicy para napędza turbozespół.
+
+Paliwo[edytuj | edytuj kod]
+W większości reaktorów (a we wszystkich lekko-wodnych) paliwo jądrowe stanowi wzbogacony uran. Wzbogacenie polega na zwiększeniu zawartości rozszczepialnego U-235 do około 3-5% (z około 0,7%), ale reaktory ciężkowodne (CANDU, PHWR) pracują przy naturalnym udziale izotopów. Reaktory prędkie wymagają jako paliwa bardziej wzbogaconego uranu (do 20%), bądź plutonu. Produkują za to, w procesie wychwytu neutronu i następujących rozpadów beta, pluton-239 z uranu U-238. Pluton może być następnie, po wydzieleniu używany jako paliwo. Przy odpowiedniej konstrukcji reaktor jest w stanie produkować w ten sposób więcej paliwa, niż go zużywa (reaktor powielający).
+
+Przyszłość[edytuj | edytuj kod]
+W przyszłości planuje się wykorzystywać jako paliwo jądrowe tor. W wyniku rozszczepienia toru powstają jądra atomowe o mniejszej masie niż przy rozszczepieniu uranu lub plutonu i jest wśród nich więcej jąder trwałych. Rozszczepienie toru wytwarza zbyt mało neutronów by uzyskać stan krytyczny, w związku z tym do reaktora takiego trzeba by wstrzeliwać neutrony pochodzące z zewnątrz. W celu uzyskania dużej ilości neutronów naukowcy pracują nad zastosowaniem zjawiska spalacji. W zjawisku tym jądra ciężkich pierwiastków np. ołowiu są bombardowane wiązką protonów o dużej energii (rzędu 1 GeV), w wyniku czego ulegają wzbudzeniu. Jądra pozbywają się energii wzbudzenia wyrzucając z siebie nukleony w tym i neutrony. Zjawisko spalacji może być stosowane w celu uczynienia bezpiecznymi i przedłużenia pracy paliwa obecnych reaktorów jądrowych, a także pomóc w utylizacji radioaktywnych odpadów.
+
+Obecnie Indie opracowują reaktor typu AHWR (Advanced Heavy Water Reactor) przystosowany do pracy z użyciem toru.
+
+Aktywność reaktora[edytuj | edytuj kod]
+Z uwagi na zachodzące w reaktorze reakcje jądrowe, reaktor jest źródłem promieniowania jonizującego. Mimo, że produkty rozpadu jąder atomowych pozostają przede wszystkim w paliwie jądrowym w rdzeniu reaktora jądrowego, wtórna aktywacja, przede wszystkim neutronami, powoduje, że radioaktywne stają się elementy konstrukcyjne reaktora i chłodziwo.[3]
+
+W wyniku długotrwałego wystawienia na promieniowanie, niektóre elementy konstrukcyjne elektrowni jądrowej ulegają aktywacji i same stają się promieniotwórcze. Dotyczy to większości pierwiastków wchodzących w skład materiałów konstrukcyjnych. Aktywność elementów konstrukcyjnych, rosnąca w toku eksploatacji reaktora, stanowi czynnik utrudniający kontrolę i naprawę. Gdy takie elementy mają kontakt z chłodziwem reaktora, mogą również tworzyć wysokoaktywne produkty korozji.[3]
+
+Szczególnie dużą aktywność dają takie izotopy jak 59Cr, 58Fe, 55Mn, 59Co. Dwa ostatnie szczególnie dobrze pochłaniają neutrony termiczne a dodatkowo są jedynymi naturalnie występującymi izotopami swoich pierwiastków, przez co mają decydujący wpływ na promieniotwórczość materiału. Jedynie 0,03% zawartości kobaltu w stali daje większą aktywność niż reszta jej składników. Kobalt występuje jako zanieczyszczenie niklu i wraz z nim trafia do stali nierdzewnej - jednego z głównego materiałów konstrukcyjnych reaktora. Z tego względu zawartość kobaltu w stalach reaktorowych ogranicza się do nie więcej niż 0,02%.[3]
+
+Aktywność chłodziwa[edytuj | edytuj kod]
+Na aktywność chłodziwa składa się aktywność własna substancji chłodzącej, aktywność zanieczyszczeń (produktów korozji, rozpuszczonych soli, pozostałości zanieczyszczeń) oraz aktywność spowodowana aktywacją neutronową. Dla wody najczęściej zachodzi aktywacja atomów tlenu, z powstawaniem protonów lub fotonów gamma. W chłodziwach metalicznych (sód, potas) najczęściej dochodzi do reakcji neutron - foton gamma. W chłodziwach najczęściej aktywowany jest argon.[3]
+
+Aktywność chłodziwa w elementach obiegu pierwotnego zależy od rodzaju czynnika chłodzącego, jego zanieczyszczeń, stanu skupienia, czasu przepływu przez reaktor i jego elementy, oraz od strumienia neutronów. Aktywność chłodziwa wzrasta z każdym kolejnym przepływem jego cząstek przez reaktor. Dla krótkożyciowych izotopów szybko osiągana jest aktywność nasycenia. Aktywność obiegu, przy założeniu że aktywność reaktora jest stała a każda cząstka chłodziwa przepływa wielokrotnie przez reaktor, można przedstawić wzorem:
+
+{\displaystyle A_{o.ch.}=\sum _{i}\sigma _{i}N_{i}\Phi \left({\frac {1-\exp[-\lambda _{i}\tau _{i}]}{1-\exp[-\lambda _{i}(\tau _{1}+\tau _{2})]}}\right)} {\displaystyle A_{o.ch.}=\sum _{i}\sigma _{i}N_{i}\Phi \left({\frac {1-\exp[-\lambda _{i}\tau _{i}]}{1-\exp[-\lambda _{i}(\tau _{1}+\tau _{2})]}}\right)},
+
+gdzie λi - stała rozpadu i-tego nuklidu chłodziwa, Ni - liczba wszystkich jąder tego nuklidu w 1 cm3 chłodziwa, σi - mikroskopowy przekrój czynny na aktywację tego nuklidu, Φ - średni strumień neutronów, τ1 - czas przepływu chłodziwa przez reaktor, τ2 - czas przepływu chłodziwa przez elementy obiegu.[3]
+
+Aktywność obiegu decyduje możliwości i warunkach dostępu do urządzeń go tworzących i obsługujących w czasie eksploatacji reaktora.[3]
+
+Aktywność paliwa[edytuj | edytuj kod]
+Świeży uran naturalny lub wzbogacony uranem-235 ma znikomą aktywność, wynikającą ze śladowych ilości uranu-234. Świeże paliwo wykorzystujące uran-233 lub pluton-239 jest za to silnym emiterem promieniowania alfa i gamma. Dodatkowymi źródłami promieniowania tamże są inne nie rozszczepialne izotopy uranu i plutonu, których nie można oddzielić od siebie w procesie produkcji paliwa.[3]
+
+Aktywność paliwa rośnie wraz z czasem jego wypalania w reaktorze. Źródłem promieniowania stają się produkty rozszczepienia. Przybliżona aktywność paliwa w reaktorze w τ0dni po jego wyłączeniu (a który pracował T0 dni wytwarzając stałą moc N watów) , określona jest wzorem Waya-Wignera[3]:
+
+{\displaystyle a(T_{0},\tau _{0})\simeq 1,4N[\tau _{0}^{-0,2}-(\tau _{0}+T_{0})^{-0,2}]} {\displaystyle a(T_{0},\tau _{0})\simeq 1,4N[\tau _{0}^{-0,2}-(\tau _{0}+T_{0})^{-0,2}]}
+
+Powyższe wzory wyznaczające aktywność chłodziwa i paliwa nie obejmują aktywności związanej z aktywnością zanieczyszczeń - substancji, które w konkretnym przypadku są traktowane jako zanieczyszczenia materiałów konstrukcyjnych lub chłodziwa. W chłodziwach zwykle są one pochodzenia mineralnego (sole) lub korozyjnego (tlenki metali).[3]
+
+Historia[edytuj | edytuj kod]
+Pierwszy reaktor (uranowo-grafitowy) zwany CP-1 (ang. Chicago Pile no.1, "Stos chicagowski nr 1") zbudowany został na Uniwersytecie w Chicago pod kierunkiem włoskiego uczonego Enrico Fermiego. Pierwsza kontrolowana reakcja łańcuchowa została w nim zapoczątkowana 2 grudnia 1942.
+26 kwietnia 1986 miała miejsce katastrofa w Czarnobylu
+12 marca 2011 miała miejsce katastrofa EJ Fukushima I
+Statystyka[edytuj | edytuj kod]
+Na świecie pracują 434 reaktory jądrowe[4] generujące energię elektryczną. Znamionowa moc elektryczna bloków energetycznych, w których skład wchodziły wynosiła 373,9 GW(e). W stanie budowy znajduje się 67 reaktorów, 159 jest planowanych, a 318 kolejnych zaproponowanych.
+
+W 2004 roku 266 reaktorów to reaktory wodne ciśnieniowe (PWR i WWER) mogące wytworzyć 239,6 GW(e). 22 reaktory jądrowe były w budowie, z czego 12 to PWR i WWER.
+
+Polskie reaktory:
+
+EWA – nieczynny
+Maria – czynny
+Anna – nieczynny
+P-Anna (modyfikacja reaktora Anna, pierwszy i jedyny polski reaktor prędki)- nieczynny
+Agata - nieczynny
+MARYLA - nieczynny
+UR-100 (tylko doświadczenie krytyczne) - nieczynny
+W Kartoszynie nad Jeziorem Żarnowieckim budowano Elektrownię Jądrową Żarnowiec, lecz w 1989 budowa została przerwana.

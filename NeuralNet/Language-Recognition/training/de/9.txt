@@ -1,0 +1,144 @@
+
+Virostatikum
+Ein Virostatikum (auch Virustatikum; lat. virus und altgr. στάσις stasis „Stillstand“) ist ein Stoff, der die Vermehrung von Viren hemmt. Virostatika werden vielfach als Arzneistoffe in der Behandlung von durch Viren verursachten Infektionskrankheiten verwendet.
+
+Inhaltsverzeichnis [Verbergen] 
+1	Grundlagen
+2	Entwicklung antiviraler Wirkstoffe
+3	Anwendung antiviraler Wirkstoffe
+4	Einteilung antiviraler Wirkstoffe
+5	Literatur
+Grundlagen[Bearbeiten | Quelltext bearbeiten]
+Viren haben keinen eigenen Stoffwechsel, was eine kausale Behandlung von viralen Infektionskrankheiten erschwert. Oft ist keine Behandlung notwendig, da Virusinfektionen häufig spontan ausheilen. Virostatika werden vor allem für solche Infektionen eingesetzt, bei denen das Immunsystem des Patienten alleine nicht zur Eradikation des Virus in der Lage ist. Ein Einsatz in der Breite ist derzeit unter Berücksichtigung des Nebenwirkungspotentiales und des Bestrebens, Resistenzbildung zu vermeiden, nicht vorgesehen. Die arzneilich eingesetzten Stoffe gegen Viren haben ausschließlich virostatische Wirkung. Das bedeutet, dass sie lediglich die Vermehrung der Viren durch verschiedene Wirkmechanismen verhindern. Viruzide – also „Virus abtötende“ Arzneimittel – gibt es derzeit nicht.
+
+Entwicklung antiviraler Wirkstoffe[Bearbeiten | Quelltext bearbeiten]
+Da die Vermehrung der Viren im Inneren von normalen Zellen stattfindet und sich dort sehr eng an die zentralen biochemischen Zellmechanismen ankoppelt, müssen die in Frage kommenden antiviralen Wirkstoffe entweder das Eindringen der Virionen in die Wirtszellen verhindern, in den Zellstoffwechsel zum Nachteil der Virusvermehrung eingreifen oder nach einer möglichen Virusvermehrung in den Zellen das Austreten der neuen Viren aus den Zellen unterbinden.
+
+Andererseits müssen diese gesuchten Wirkstoffe jedoch auch für den Körperstoffwechsel, den Zellverband und/oder den internen Zellstoffwechsel insgesamt verträglich sein, da sonst nicht nur beispielsweise die Virusvermehrung in den Zellen zum Erliegen kommt, sondern schlimmstenfalls auch das (Zell-)Leben des gesamten behandelten Organismus. Weil diese Bedingungen sehr schwer zu vereinbaren sind, sind die bisher entwickelten antiviralen Medikamente auch oft mit schweren Nebenwirkungsrisiken verbunden. Diese Gratwanderung stellte die Medizin vor schwierige Aufgaben, die bislang meist ungelöst blieben.
+
+Verschärft wird die Entwicklung von effektiven antiviralen Wirkstoffen außerdem durch die Resistenzentwicklung von Seiten der zu bekämpfenden Viren gegenüber einem einmal gefundenen, brauchbaren Wirkstoff, zu der sie auf Grund ihres extrem schnell ablaufenden Vermehrungszyklus und der biochemischen Eigenart dieser Replikation gut in der Lage sind.
+
+Anwendung antiviraler Wirkstoffe[Bearbeiten | Quelltext bearbeiten]
+Ein Beispiel für einen sehr erfolgreichen Einsatz von Virostatika ist die moderne HIV-Therapie, die in der Lage ist, durch gezielte Wirkstoffkombinationen und ein strukturiertes Nebenwirkungsmanagement den Patienten über viele Jahre unter medizinischer Behandlung ein nahezu normales Leben zu ermöglichen. Die Überlebenszeit wird im Vergleich zu untherapierten Patienten oder Patienten mit „klassischer“ HIV-Therapie deutlich verlängert.
+
+Einteilung antiviraler Wirkstoffe[Bearbeiten | Quelltext bearbeiten]
+Virostatika haben unterschiedliche Angriffspunkte in den Vermehrungsstadien eines Virus:
+
+Verhinderung des Andockens der Viruspartikel an der Zellmembran des Wirtsorganismus
+Verhinderung des Eindringens in die Wirtszelle, Verhinderung des uncoating (Freisetzung von Kapsid und Genom aus der Virushülle)
+Störung/Hemmung der Synthese viraler Nukleinsäuren und Proteine (z. B. Kapsidproteine)
+Hemmung der Assemblierung (Zusammenfügung der synthetisierten Virusbestandteile zu neuen Viren)
+Unterdrückung der Freisetzung der neu gebildeten Viren aus der Wirtszelle
+Stadium für den virostatischen Angriff	Wirkstoffgruppe	Virostatisch wirksame Stoffe (Ziel-Virus)
+Andocken (Adhäsion)	Entry-Inhibitoren	Ancriviroc, Aplaviroc, Cenicriviroc, Enfuvirtid, Maraviroc, Vicriviroc (HIV), FGI-106, LJ-001
+Eindringen, Uncoating	Penetrations-Inhibitoren	Amantadin, Rimantadin (Influenza A)
+Pleconaril (Picornaviren)
+
+Nukleinsäuresynthese, Proteinsynthese	DNA-Polymerase-Inhibitoren	
+Nukleosidische + nukleotidische
+Idoxuridin (HSV)
+
+Aciclovir, Brivudin, Famciclovir, Penciclovir, Sorivudin, Valaciclovir (HSV, VZV)
+
+Cidofovir, Brincidofovir, Ganciclovir, Valganciclovir (CMV)
+
+andere
+Foscarnet (HSV, CMV)
+
+DNA/RNA-Polymerase-Inhibitoren	
+Ribavirin, Taribavirin (HRSV, HCV und andere)
+Filibuvir, Nesbuvir, Sofosbuvir, Tegobuvir (HCV)
+Fosdevirin (HIV)
+RNA-Polymerase-Inhibitoren	
+Favipiravir, JK-05 (Influenza A)
+BCX4430
+
+Reverse Transkriptase-Inhibitoren	
+Nukleosidische (NRTI) und nukleotidische (NTRTI)
+Abacavir, Didanosin, Elvucitabin, Emtricitabin, Fosalvudintidoxil, Fozivudintidoxil, Stavudin, Zalcitabin, Zidovudin (HIV)
+
+Lamivudin, Lagociclovir, Tenofovir (HIV, HBV) Adefovir, Alamifovir, Clevudin, Entecavir, Pradefovir, Telbivudin (HBV)
+
+Nichtnukleosidische (NNRTI)
+Delavirdin, Efavirenz, Emivirin, Etravirin, Lersivirin, Nevirapin, Rilpivirin (HIV)
+
+Inosinmonophosphat-Dehydrogenase-Hemmer	Merimepodib (HCV)
+Proteaseinhibitoren	
+HIV-Proteaseinhibitoren
+Amprenavir, Atazanavir, Brecanavir, Darunavir, Fosamprenavir, Indinavir, Lopinavir, Mozenavir, Nelfinavir, Ritonavir, Saquinavir, Tipranavir
+
+HCV-Proteaseinhibitoren
+Asunaprevir, Balapiravir, Boceprevir, Ciluprevir, Danoprevir, Daclatasvir, Narlaprevir, Telaprevir, Simeprevir, Vaniprevir
+
+HRV-Proteaseinhibitoren
+Rupintrivir
+
+Integrase-Inhibitoren	Elvitegravir, Dolutegravir, Raltegravir (HIV)
+Antisense-Oligonukleotide	Fomivirsen (CMV)
+Rekombinasen	
+Helikase-Primase-Inhibitoren	Amenamevir (HSV, VZV)
+Cyclophilin-Inhibitoren	Alisporivir (HCV)
+Assemblierung	Maturations-Inhibitoren	Bevirimat (HIV)
+Terminase-Inhibitoren	Letermovir (CMV)
+Freisetzung	Neuraminidase-Inhibitoren	Laninamivir, Oseltamivir, Peramivir, Zanamivir (Influenza A, B)
+Neben solchen Stoffen, die unmittelbar in bestimmte Stadien der Virenvermehrung eingreifen und dabei primär virusspezifische Strukturen zum Ziel haben, gibt es Stoffe, die Strukturen des Wirts zum Ziel haben und über die Aktivierung spezifischer und unspezifischer immunologischer Abwehrmechanismen antiviral wirken.
+
+Dazu zählen Zytokine wie das alpha-Interferon (IFN-α) und beta-Interferon (IFN-β), ferner monoklonale Antikörper und andere immunmodulatorische Mittel wie z. B. Imiquimod und Resiquimod.
+
+Literatur[Bearbeiten | Quelltext bearbeiten]
+E. Mutschler, G. Geisslinger, H. K. Kroemer, P. Ruth, M. Schäfer-Korting: Arzneimittelwirkungen. Lehrbuch der Pharmakologie und Toxikologie. 9. Auflage, Wissenschaftliche Verlagsgesellschaft, Stuttgart 2008, ISBN 3-8047-1952-X.
+Fritz H Kayser: Medizinische Mikrobiologie: Immunologie, Bakteriologie, Mykologie, Virologie, Parasitologie. 8., überarbeitete Auflage, Thieme, Stuttgart 1993, ISBN 3-13-444808-4.
+Gesundheitshinweis	Dieser Artikel behandelt ein Gesundheitsthema. Er dient nicht der Selbstdiagnose und ersetzt keine Arztdiagnose. Bitte hierzu diesen Hinweis zu Gesundheitsthemen beachten!
+Kategorie: Virostatikum
+Navigationsmenü
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmeldenArtikelDiskussionLesenBearbeitenQuelltext bearbeitenVersionsgeschichteSuche
+
+Wikipedia durchsuchen
+Artikel
+Hauptseite
+Themenportale
+Von A bis Z
+Zufälliger Artikel
+Mitmachen
+Artikel verbessern
+Neuen Artikel anlegen
+Autorenportal
+Hilfe
+Letzte Änderungen
+Kontakt
+Spenden
+Werkzeuge
+Links auf diese Seite
+Änderungen an verlinkten Seiten
+Spezialseiten
+Permanenter Link
+Seiten­informationen
+Wikidata-Datenobjekt
+Artikel zitieren
+Drucken/­exportieren
+Buch erstellen
+Als PDF herunterladen
+Druckversion
+In anderen Projekten
+Commons
+
+In anderen Sprachen
+العربية
+English
+Español
+Bahasa Indonesia
+Polski
+Português
+Русский
+Українська
+中文
+21 weitere
+Links bearbeiten
+Diese Seite wurde zuletzt am 23. Februar 2018 um 08:33 Uhr bearbeitet.
+Abrufstatistik
+
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+DatenschutzÜber WikipediaImpressumEntwicklerStellungnahme zu CookiesMobile AnsichtVorschau aktivieren
+Wikimedia Foundation Powered by MediaWiki
+ 
