@@ -1,150 +1,10 @@
 # THIS IMPLEMENTATION TRADES EFFICIENCY FOR UNDERSTANDABILITY
 
-import numpy as np
 import collections
-import string
-import random
 import math
+import string
 
-from matplotlib import pyplot as plt
-#
-# # T
-# class Neuron(object):
-#     def __init__(self, n_inputs):
-#         self.n_inputs = n_inputs
-#         self.set_weights( [ random.uniform(0, 1) for x in range(0, n_inputs) ] )
-#         # print(self.weights)
-#         self.E = 0.0
-#
-#     # def output(self, training_set, weights, threshold):
-#     #     sum = 0
-#     #
-#     #     for j in range(4):
-#     #         sum += weights[j] * training_set[j]
-#     #
-#     #     return sum >= threshold
-#     #
-#     # def update_weights(self, desired_y, y, X, alpha, weights, threshold):
-#     #
-#     #     w = list(weights)
-#     #     w.append(threshold)
-#     #
-#     #     x = list(X)
-#     #     x.append(-1)
-#     #
-#     #     mult = (float(desired_y) - float(y)) * alpha
-#     #     for i in range(4):
-#     #         w[i] += mult * x[i]
-#     #     print(w)
-#     #
-#     #     return w
-#
-#     def sum(self, threshold):
-#         self.net = np.dot(self.inputs[0:26], self.weights) - threshold
-#         # print(self.net)
-#
-#     def act_unip(self):
-#         try:
-#             self.y = 1 / (1 + math.exp(-self.net*0.01))
-#             # print(self.y)
-#         except OverflowError:
-#             return float("inf")
-#     def act_bip(self):
-#         try:
-#             self.y = (2 / (1 + math.exp(-self.net*0.01))) - 1
-#         except OverflowError:
-#             return float("inf")
-#
-#     def err(self, E_max):
-#         self.E += (1.0 - self.y)*(1.0 - self.y) / 2
-#         print(self.E)
-#
-#         # return self.E
-#
-#     def der(self, output):
-#         pass
-#
-#     def upd(self, rate):
-#         x_new = []
-#
-#
-#     def set_weights(self, weights):
-#         self.weights = weights
-#
-#     def __str__(self):
-#         return 'Weights: %s ' % (str(self.weights[:]))
-#
-#
-#     def loadInputs(self, x):
-#         self.inputs = x
-#         # print(self.inputs)
-#     def loadOutputs(self, y_train):
-#         self.desired = y_train
-#     def setLang(self, lang):
-#         self.lang = lang
-#
-#     def toFloat(self, x):
-#         return float("{0:.2f}".format(x))
-#
-#
-# # done
-# class NeuronLayer(object):
-#     def __init__(self, n_neurons, n_inputs):
-#         self.n_neurons = n_neurons
-#         self.neurons = [Neuron(n_inputs) for _ in range(0, self.n_neurons)]
-#         # print(self.neurons[0].weights)
-#
-#     def __str__(self):
-#         return 'Layer:\n\t' + '\n\t'.join([str(neuron) for neuron in self.neurons]) + ''
-#
-# # TODO
-# class NeuralNetwork(object):
-#     def __init__(self, n_inputs, n_outputs, n_neurons_to_hl, n_hidden_layers):
-#         self.n_inputs = n_inputs
-#         self.n_outputs = n_outputs
-#         self.n_hidden_layers = n_hidden_layers
-#         self.n_neurons_to_hl = n_neurons_to_hl
-#
-#         # Do not touch
-#         self._create_network()
-#         self._n_weights = None
-#         # end
-#     def _create_network(self):
-#         if self.n_hidden_layers > 0:
-#             # create the first layer
-#             self.layers = [NeuronLayer(self.n_neurons_to_hl, self.n_inputs)]
-#
-#             # create hidden layers
-#             self.layers += [NeuronLayer(self.n_neurons_to_hl, self.n_neurons_to_hl) for _ in
-#                             range(0, self.n_hidden_layers)]
-#
-#             # hidden-to-output layer
-#             self.layers += [NeuronLayer(self.n_outputs, self.n_neurons_to_hl)]
-#         else:
-#             # If we don't require hidden layers
-#             self.layers = [NeuronLayer(self.n_outputs, self.n_inputs)]
-#     def upd(self, inputs):
-#         for layer in self.layers:
-#             outputs = []
-#             for neuron in layer.neurons:
-#                 tot = neuron.sum(inputs)
-#                 outputs.append(self.act_unip(tot))
-#             # inputs = outputs
-#         return outputs
-#
-#     # def update(self, inputs):
-#     #     assert len(inputs) == self.n_inputs, "Incorrect amount of inputs."
-#     #
-#     #     for layer in self.layers:
-#     #         outputs = []
-#     #         for neuron in layer.neurons:
-#     #             tot =
-#     #             outputs.append(self.sigmoid(tot))
-#     #         inputs = outputs
-#     #     return outputs
-#
-#     def __str__(self):
-#         return '\n'.join([str(i + 1) + ' ' + str(layer) for i, layer in enumerate(self.layers)])
+import numpy as np
 
 
 
@@ -226,7 +86,7 @@ class Neuron():
         return output*(1 - output)
 
     def update_weights(self, desired_output, output, input_vector):
-        self.E += 0.5 * (desired_output - output) * (desired_output - output)
+        # self.E += 0.5 * (desired_output - output) * (desired_output - output)
         # print(self.E) # increases over time
 
         coefficient =  0.01*(desired_output-output)*self.derivative(output)
@@ -249,8 +109,14 @@ class Neuron():
 
 
     def feedworward_train(self, input_vector, desired_output):
-        net = np.dot(self.weights, input_vector)
-        output = self.sigmoid(net)
+        self.net = np.dot(self.weights, input_vector)
+        net = self.net #unnecessary
+
+        self.output = self.sigmoid(net)
+        output = self.output #unnecessary
+
+        # self.E = 0/5*(math.pow(1.0))
+
         if desired_output == self.lang and output != 1.0:
             self.update_weights(1.0, output, input_vector)
         if desired_output != self.lang and output != 0.0:
@@ -261,18 +127,6 @@ class Neuron():
         net = np.dot(self.weights, input_vector)
         return net
 
-
-
-    # def feedforward(self, input_vector, output_vector):
-    #     a = []
-    #     for b, w in zip(self.thresholds, self.weights):
-    #         net = np.dot(w, input_vector.T) - b
-    #         output = self.sigmoid(net)
-    #         print(output)
-    #         a.append(output)
-    #
-    #     a = np.matrix(a).T
-    #     # print(a)
 
 
 def main():
@@ -300,9 +154,18 @@ def main():
     # y_test = np.matrix(y_test)
 
 
+    Emax = 0.5
+    E = 0
+
     en = Neuron("en", 100)
     pl = Neuron("pl", 100)
     de = Neuron("de", 100)
+
+    # draft for Error implementation
+    # outputs = [[None for _ in range(2)] for _ in range(3)]
+    # outputs[0][0] = 1.0
+    # outputs[0][1] = 0.2
+    # print(outputs)
 
     for j in range(100):
         for i in range(len(X_train)):
@@ -311,6 +174,13 @@ def main():
             de.feedworward_train(X_train[i], y_train[i])
         #     print("----------" + str(i))
         # print("///////////////////////")
+
+
+        # for the future Error implementation
+        # if E < Emax:
+        #     break
+        # else:
+        #     E = 0
 
     for i in range(len(X_test)):
         en_o = en.feedforward_test(X_test[i])
@@ -322,32 +192,6 @@ def main():
             print("polish")
         if de_o > en_o and de_o > pl_o:
             print("german")
-
-
-
-
-    # en_neuron = neural_network.layers[0].neurons[0]
-    # pl_neuron = neural_network.layers[0].neurons[1]
-    # de_neuron = neural_network.layers[0].neurons[2]
-    #
-    # en_neuron.setLang("en")
-    # pl_neuron.setLang("pl")
-    # de_neuron.setLang("de")
-    #
-    # en_neuron.loadOutputs(y_train)
-    # pl_neuron.loadOutputs(y_train)
-    # de_neuron.loadOutputs(y_train)
-
-    # print(en_neuron.weights)
-
-    # for x in X_train:
-    #     print("en")
-    #     en_neuron.loadInputs(x)
-    #     en_neuron.sum(threshold)
-    #     en_neuron.act_unip()
-    #     en_neuron.err(E_max)
-    #
-    #     print("---------------")
 
 
 
