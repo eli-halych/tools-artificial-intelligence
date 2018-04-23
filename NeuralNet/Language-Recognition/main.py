@@ -121,7 +121,7 @@ class Neuron():
             self.update_weights(1.0, output, input_vector)
         if desired_output != self.lang and output != 0.0:
             self.update_weights(0.0, output, input_vector)
-        # print(net, output)
+        print(net, output)
 
     def feedforward_test(self, input_vector):
         net = np.dot(self.weights, input_vector)
@@ -167,13 +167,13 @@ def main():
     # outputs[0][1] = 0.2
     # print(outputs)
 
-    for j in range(100):
+    while True:
         for i in range(len(X_train)):
             en.feedworward_train(X_train[i], y_train[i])
             pl.feedworward_train(X_train[i], y_train[i])
             de.feedworward_train(X_train[i], y_train[i])
-        #     print("----------" + str(i))
-        # print("///////////////////////")
+            print("----------" + str(i))
+        print("///////////////////////")
 
 
         # for the future Error implementation
