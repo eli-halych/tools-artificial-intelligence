@@ -75,7 +75,7 @@ class Neuron():
         self.weights = np.random.rand(1, 26)
         self.lang = lang
         self.threshold = threshold
-        self.E = 0
+        self.difference = 0
         # print(self.weights)
         # print(type(self.weights))
         # print(type(self.thresholds))
@@ -107,6 +107,8 @@ class Neuron():
 
         # print(self.weights)
 
+    # def error(self, output, desired_output):
+    #     self.error += 0.5*(desired_output - output)*(desired_output - output)
 
     def feedworward_train(self, input_vector, desired_output):
         self.net = np.dot(self.weights, input_vector)
@@ -119,9 +121,11 @@ class Neuron():
 
         if desired_output == self.lang and output != 1.0:
             self.update_weights(1.0, output, input_vector)
+            self.difference = (1.0 - output)
         if desired_output != self.lang and output != 0.0:
             self.update_weights(0.0, output, input_vector)
-        print(net, output)
+            self.difference = (0.0 - output)
+        # print(net, output)
 
     def feedforward_test(self, input_vector):
         net = np.dot(self.weights, input_vector)
@@ -172,7 +176,14 @@ def main():
             en.feedworward_train(X_train[i], y_train[i])
             pl.feedworward_train(X_train[i], y_train[i])
             de.feedworward_train(X_train[i], y_train[i])
-            print("----------" + str(i))
+
+            E += 0.5*((en.difference*en.difference)+(pl.difference*pl.difference)+(de.difference*de.difference))
+
+            # print("----------" + str(i))
+        print(E)
+        if(E < Emax):
+            break
+        else: E = 0
         print("///////////////////////")
 
 
