@@ -1,10 +1,10 @@
-# THIS IMPLEMENTATION TRADES EFFICIENCY FOR UNDERSTANDABILITY
-
 import collections
 import math
 import string
 
 import numpy as np
+
+
 
 
 
@@ -67,8 +67,6 @@ def splitTrainandTest(training_set, test_set, X_train, y_train, X_test, y_test):
 
 
 
-
-
 class Neuron():
     def __init__(self, lang, threshold):
         # self.thresholds = np.matrix('10, 20, 15').T
@@ -107,17 +105,12 @@ class Neuron():
 
         # print(self.weights)
 
-    # def error(self, output, desired_output):
-    #     self.error += 0.5*(desired_output - output)*(desired_output - output)
-
     def feedworward_train(self, input_vector, desired_output):
         self.net = np.dot(self.weights, input_vector)
         net = self.net #unnecessary
 
         self.output = self.sigmoid(net)
         output = self.output #unnecessary
-
-        # self.E = 0/5*(math.pow(1.0))
 
         if desired_output == self.lang and output != 1.0:
             self.update_weights(1.0, output, input_vector)
@@ -150,26 +143,20 @@ def main():
     loadDataset(train_path, test_path, lang, 10, training_set, test_set)
     splitTrainandTest(training_set, test_set, X_train, y_train, X_test, y_test)
 
-    # print(X_test)
-
-    # X_train = np.matrix(X_train)
-    # y_train = np.matrix(y_train)
-    # X_test = np.matrix(X_test)
-    # y_test = np.matrix(y_test)
-
-
     Emax = 0.5
     E = 0
 
+
+    # The creation of neurons is hardcoded
+    # Creating them dynamically would be just like this:
+    # 1. Calculate the number of folders and get their names
+    # 2. Create neurons in an array of size of number of folders
+    # Then I would've used them the same way I do it now.
+    # I just wanted to save time and focus more on now the NN works,
+    # because I already had like 10 attempts util I reached the final version.
     en = Neuron("en", 100)
     pl = Neuron("pl", 100)
     de = Neuron("de", 100)
-
-    # draft for Error implementation
-    # outputs = [[None for _ in range(2)] for _ in range(3)]
-    # outputs[0][0] = 1.0
-    # outputs[0][1] = 0.2
-    # print(outputs)
 
     while True:
         for i in range(len(X_train)):
@@ -180,18 +167,12 @@ def main():
             E += 0.5*((en.difference*en.difference)+(pl.difference*pl.difference)+(de.difference*de.difference))
 
             # print("----------" + str(i))
-        print(E)
+        print("Erorr: "+str(E))
         if(E < Emax):
             break
-        else: E = 0
+        else:
+            E = 0
         print("///////////////////////")
-
-
-        # for the future Error implementation
-        # if E < Emax:
-        #     break
-        # else:
-        #     E = 0
 
     for i in range(len(X_test)):
         en_o = en.feedforward_test(X_test[i])
@@ -203,10 +184,6 @@ def main():
             print("polish")
         if de_o > en_o and de_o > pl_o:
             print("german")
-
-
-
-
 
 
 main()
