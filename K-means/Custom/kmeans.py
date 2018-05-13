@@ -2,21 +2,14 @@ import matplotlib.pyplot as plt
 from matplotlib import style
 style.use('ggplot')
 import numpy as np
-# from sklearn.cluster import KMeans
+from sklearn.cluster import KMeans
 from sklearn import datasets
-
-# X = np.array([[1, 2],
-#               [1.5, 1.8],
-#               [5, 8],
-#               [8, 8],
-#               [1, 0.6],
-#               [9, 11],
-#               [1, 1.9]])
 
 iris = datasets.load_iris()
 X = iris.data[:, :2]  # we only take the first two features.
-# print(iris.target)
 y = iris.target
+
+# print(X)
 
 plt.scatter(X[:, 0], X[:, 1], s=150)
 plt.show()
@@ -28,6 +21,7 @@ plt.show()
 # labels = clf.labels_
 
 colors = 10*["g", "r", "c", "b", "k"]
+# print(colors)
 
 # for i in range(len(X)):
 #     plt.plot(X[i][0], X[i][1], colors[labels[i]], markersize=15)
@@ -45,7 +39,8 @@ class K_Means:
         self.centroids = {}
 
         for i in range(self.k):
-            self.centroids[i]= data[i]
+            self.centroids[i] = data[i]
+            # print(self.centroids)
 
         for i in range(self.max_iter):
             self.classifications = {}
@@ -55,22 +50,26 @@ class K_Means:
 
             for featureset in X: # X will work because it is defined above, it should be data
                 distances = [np.linalg.norm(featureset-self.centroids[centroid]) for centroid in self.centroids]
+                print(distances)
                 classification = distances.index(min(distances))
+                print(classification)
                 self.classifications[classification].append(featureset)
 
             prev_centroids = dict(self.centroids)
 
             for classification in self.classifications:
-                # pass
                 self.centroids[classification] = np.average(self.classifications[classification], axis=0)
+                # print(self.centroids)
 
             optimized = True
 
             for c in self.centroids:
                 original_centroid = prev_centroids[c]
                 current_centroid = self.centroids[c]
+                # print(c)
+                # print(original_centroid)
                 if np.sum((current_centroid-original_centroid)/original_centroid*100.0) > self.tol:
-                    print(np.sum((current_centroid-original_centroid)/original_centroid*100.0)) # num of iterations it went through in %
+                    # print(np.sum((current_centroid-original_centroid)/original_centroid*100.0)) # num of iterations it went through in %
                     optimized = False
 
             if optimized:
