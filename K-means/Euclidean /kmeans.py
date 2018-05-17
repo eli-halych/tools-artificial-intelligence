@@ -3,6 +3,9 @@ from matplotlib import style
 style.use('ggplot')
 import matplotlib.pyplot as plt
 
+
+
+
 class Kmeans:
     def __init__(self, k):
 
@@ -76,6 +79,13 @@ class Kmeans:
                 print(el.coordinates)
             print("-")
 
+    def getSumInCluster(self):
+        for i in range(len(self.clusters)):
+            self.clusters[i].showSqSumDistances(i)
+
+    def centroidsDontMove(self):
+        return False
+
 
 class Centroid:
     def __init__(self):
@@ -89,6 +99,11 @@ class Centroid:
     def setCoordinates(self):
         self.coordinates = [x / self.lengthOfNumerator for x in self.numerator]
         # print(self.coordinates)
+
+
+
+
+
 
 
 class Cluster:
@@ -108,6 +123,21 @@ class Cluster:
     def removeElements(self):
         self.elements.clear()
 
+    def showSqSumDistances(self, cl_num):
+        sq_sum = 0
+        for e in self.elements:
+            sq_sum += self.euclideanDistance(e, self.centroid)
+        print(str(cl_num)+"cluster: "+str(sq_sum))
+
+    def euclideanDistance(self, element, centroid):
+        dist = 0
+        for i in range(len(element.coordinates)):
+            dist += (element.coordinates[i] - centroid.coordinates[i]) ** 2
+        return dist
+
+
+
+
 
 
 class Feature(object):
@@ -116,6 +146,16 @@ class Feature(object):
 
     def addOrUpdateCentroid(self, c):
         self.centroid = c
+
+
+
+
+
+
+
+
+
+
 
 k = 3
 clf = Kmeans(k)
@@ -126,13 +166,52 @@ plt.scatter(X[:, 0], X[:, 1], s=150)
 plt.show()
 colors = 10*["g", "r", "c", "b", "k"]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # fit, possibly just one iteration needed
 for i in range(50):
     clf.placeCentroids()
     clf.calculateDistances()
     clf.updateClusters()
+    clf.getSumInCluster()
     # clf.showClusters()
-    # print("-----")
+    print("-----")
+
+    # if clf.centroidsDontMove():
+    #     break
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # plot fitted centroids
 centroids = []
