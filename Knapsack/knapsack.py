@@ -9,6 +9,9 @@ def powerset(items):
         res.extend(newset)
     return res
 
+def characteristic_vector(items):
+    res = []
+
 
 def knapsack_brute_force(items, max_weight):
     knapsack = []
@@ -41,7 +44,9 @@ def build_items(n):
 
 
 # items = [(0,2,4), (1,5,3), (2,7,4), (3,3,5)]
-items = build_items(10)
+n = 30
+print("Computations =", 2**n)
+items = build_items(n)
 max_weight = 20
 knapsack, opt_wt, opt_val = knapsack_brute_force(items, max_weight)
 
