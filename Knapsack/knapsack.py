@@ -9,21 +9,27 @@ def powerset(items):
         res.extend(newset)
     return res
 
+def indicator_vector(items):
+    pass
+
 def characteristic_vector(items):
     res = []
-
 
 def knapsack_brute_force(items, max_weight):
     knapsack = []
     best_weight = 0
     best_value = 0
-    for item_set in powerset(items):
-        set_weight = sum(map(weight, item_set))
-        set_value = sum(map(value, item_set))
-        if set_value > best_value and set_weight <= max_weight:
-            best_weight = set_weight
-            best_value = set_value
-            knapsack = item_set
+    for item in items:
+        for j in range(len(item)):
+            
+
+
+        # set_weight = sum(map(weight, item_set))
+        # set_value = sum(map(value, item_set))
+        # if set_value > best_value and set_weight <= max_weight:
+        #     best_weight = set_weight
+        #     best_value = set_value
+        #     knapsack = item_set
     return knapsack, best_weight, best_value
 
 
@@ -44,7 +50,7 @@ def build_items(n):
 
 
 # items = [(0,2,4), (1,5,3), (2,7,4), (3,3,5)]
-n = 30
+n = 10
 print("Computations =", 2**n)
 items = build_items(n)
 max_weight = 20
