@@ -1,67 +1,64 @@
 import math
+import time
 
 
-# here i run out of memory if #of items is 30
-def powerset(items):
-    res = [[]]
-    for item in items:
-        newset = [r + [item] for r in res]
-        res.extend(newset)
-    return res
+
+def bin_vector(num):
+    return bin(num)
+
+def bit_set(num, pos):
+    return (num >> pos) & 1
 
 
-def indicator_vector(num):
-    return bin(num)[2:]
+def get_weight(vector, items, n):
+    weight = 0
+    for i in range(n):
+        weight += items[i][1] * bit_set(vector, i)
+    return weight
 
 
-def characteristic_vector(items):
-    res = []
+def get_feasible(n, items, capacity):
+    feasible_vectors = []
+    max = 2**n-1
+    i = 0
+    print(max)
+    while i < max:
+        if i % 1000000 == 0:
+            print(i)
+        if get_weight(i, items, n) <= capacity:
+            feasible_vectors.append(i)
+        i += 1
+    return feasible_vectors
+
+
+def get_value(vector, items, n):
+    value = 0
+    for i in range(n):
+        value += items[i][2] * bit_set(vector, i)
+    return value
+
+
+def get_optimal(indicator_vectors, items, n):
+    best_value = 0
+    best_vector = 0
+
+    for vector in indicator_vectors:
+        value = get_value(vector, items, n)
+        if value <= best_value:
+            continue
+        best_vector = vector
+        best_value = value
+
+    return bin_vector(best_vector), 0, best_value
 
 
 def knapsack_brute_force(items, max_weight):
-    knapsack = []
     n = len(items)
-    best_weight = 0
-    best_value = 0
-    bin_range = range(0, int(math.pow(2, n)))
-    bag = []
+    capacity = max_weight
 
-    for i in bin_range:
-        b = indicator_vector(i)
-        w_sum = 0
-        v_sum = 0
-
-        # ------------REVERSING INDICES FOR A BINARY NUMBER, testing
-        # x = n - len(b)
-        # # print("x", x)
-        # for k in range(len(b)):
-        #     current_index = ((len(b)+x)-k)-1
-        #     if current_index > 0 and b != '0':
-        #         print("index = ", current_index, "for binary = ", b)
-        # print("------------------------")
-        # ------------
-
-        num_zeros_before = n - len(b)
-        for j in range(len(b)):
-            current_index = ((len(b) + num_zeros_before) - j) - 1
-            # 0 is a useless case
-            if b != '0':
-
-                if b[j] == '1':
-                    w_sum += items[current_index][1]
-                    v_sum += items[current_index][2]
-
-        if w_sum <= max_weight and v_sum > best_value and b != '0':
-            best_weight = w_sum
-            best_value = v_sum
-            bag = []
-            for e in range(len(b)):
-                curr_ind = ((len(b) + num_zeros_before) - j) - 1
-                if b[e] == '1':
-                    bag.append(items[curr_ind])
-            print("Probable knapsack:", bag)
-
-        knapsack = bag
+    indicator_vectors = get_feasible(n, items, capacity)
+    print(indicator_vectors)
+    knapsack, best_weight, best_value = get_optimal(indicator_vectors, items, n)
 
     return knapsack, best_weight, best_value
 
@@ -73,10 +70,10 @@ def build_items(n):
         res.append((i, 1 + int(9 * random()), 1 + int(9 * random())))
     return res
 
-
-n = 10 # number of items
+start_time = time.time()
+n = 19  # number of items
 items = build_items(n)
-max_weight = 20
+max_weight = 8
 knapsack, opt_wt, opt_val = knapsack_brute_force(items, max_weight)
 
 print("------------------------------------------------------------------------")
@@ -84,5 +81,6 @@ print("Items(id, weight, value): ", items)
 print("\n\t\t\t  Max weight: ", max_weight)
 print("\t\t\t\tKnapsack: ", knapsack)
 print("\t\t  Optimal weight: ", opt_wt)
-print("\t\t   Optimal value: ", opt_val)
+print("\t\t  Optimal value: ", opt_val)
+print("\t\t  Execution time: %s seconds" % (time.time() - start_time))
 print("------------------------------------------------------------------------")

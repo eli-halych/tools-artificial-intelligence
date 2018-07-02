@@ -44,7 +44,7 @@ def class_prior_probability(y, length_all):
 def likelihood(testCase, all_y, trainingSet, y, given_y, class_att):
     propabilities = []
     # att_count = []
-    print(len(testCase))
+    # print(len(testCase))
     for i in range(len(testCase)):
         counter = 0
         for j in range(len(trainingSet)):
@@ -84,8 +84,10 @@ def find_class_attributes(trainingSet):
 
 def naive_bayes(trainingSet, y, testCase):
     class_att = find_class_attributes(trainingSet)
+    # print(class_att)
 
     num_of_y = count_outputs(y)  # [y, amount]
+    # print(num_of_y)
     P_y = []  # [y, probability]
     for yy in num_of_y:
         P_y.append([yy[0], class_prior_probability(yy[1], len(trainingSet))])

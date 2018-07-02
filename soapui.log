@@ -1,5 +1,0 @@
-2018-05-20 20:50:47,861 WARN  [DefaultSoapUICore] Missing folder [/home/ihalych/ext] for external libraries
-2018-05-20 20:50:48,797 INFO  [DefaultSoapUICore] initialized soapui-settings from [/home/ihalych/soapui-settings.xml]
-2018-05-20 20:50:50,829 INFO  [WorkspaceImpl] Loading workspace from [/home/ihalych/intellij-soapui-workspace.xml]
-2018-05-20 20:53:22,979 INFO  [WorkspaceImpl] Saved workspace to [/home/ihalych/intellij-soapui-workspace.xml]
-2018-05-20 20:53:23,002 INFO  [DefaultSoapUICore] Settings saved to [/home/ihalych/soapui-settings.xml]
